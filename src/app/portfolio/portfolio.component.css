@@ -1,0 +1,13 @@
+.btn-outline-primary {
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+.btn-outline-primary:hover {
+  background-color: black; /* Background color on hover */
+  color: white; /* Text color on hover */
+}
+
+.active {
+  background-color: #007bff; /* Active button color */
+  color: white; /* Active text color */
+}

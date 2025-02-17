@@ -1,0 +1,59 @@
+/* Remove background and ensure the carousel blends with the design */
+.carousel-item {
+  background: transparent !important;
+  transition: opacity 1s ease-in-out; /* Smooth transition for opacity */
+  opacity: 0; /* Initially hide items */
+}
+
+/* Ensure that only the active item is visible */
+.carousel-item.active {
+  opacity: 1; /* Fade in active item */
+}
+
+/* Remove Bootstrap default background */
+.carousel {
+  background: none !important;
+}
+
+/* Hide controls if only one review exists */
+button.carousel-control-prev,
+button.carousel-control-next {
+  border: none !important;
+  background: none !important;
+  outline: none !important;
+}
+
+/* Customize control icons */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1); /* Make arrows visible */
+}
+
+/* Optional: Adjust height for better visibility */
+.carousel-inner {
+  min-height: 250px; /* Adjust as needed */
+}
+
+/* Animation for text fading in */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px); /* Start from a slightly lower position */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0); /* End in the normal position */
+  }
+}
+
+/* Animation for text fading in */
+.carousel-item.active .review-slide {
+  animation: fadeIn 1s ease-in-out forwards; /* Trigger animation only on active slide */
+}
+
+/* Hover effects: Ensures opacity stays full even on hover */
+.carousel-inner:hover {
+  opacity: 1 !important;
+  filter: none !important;
+  cursor: auto;
+}

@@ -1,0 +1,34 @@
+{
+  "en": {
+    "reviews": [
+      {
+        "text": "Tunis Sports University innove et grâce au travail\n                            de notre étudiant Mehdi Haj Sassi, nous avons désormais un nouveau site WEB que vous pouvez\n                            désormais consulter et où vous trouverez toutes les informations relatives à notre\n                            travail.",
+        "imageAbout": "/img/benabdallahmehdi.jpg",
+        "name": "BEN ABDALLAH Mehdi",
+        "position": "Tunis Sports University Owner"
+      },
+      {
+        "text": "Good job done by Mahdi",
+        "imageAbout": "https://cdn5.f-cdn.com/ppic/229851141/logo/19416088/Jmk41/CROPPED_profile_logo_UXUJC_16ada05214aa9a815c6159c4ab557994.jpeg",
+        "name": "Naif A",
+        "position": "Professional Engineer"
+      }
+    ]
+  },
+  "fr": {
+    "reviews": [
+      {
+        "text": "Tunis Sports University innove et grâce au travail\n                            de notre étudiant Mehdi Haj Sassi, nous avons désormais un nouveau site WEB que vous pouvez\n                            désormais consulter et où vous trouverez toutes les informations relatives à notre\n                            travail.",
+        "imageAbout": "/img/benabdallahmehdi.jpg",
+        "name": "BEN ABDALLAH Mehdi",
+        "position": "Tunis Sports University Propriétaire"
+      },
+      {
+        "text": "Good job done by Mahdi",
+        "imageAbout": "https://cdn5.f-cdn.com/ppic/229851141/logo/19416088/Jmk41/CROPPED_profile_logo_UXUJC_16ada05214aa9a815c6159c4ab557994.jpeg",
+        "name": "Naif A",
+        "position": "Ingénieur Professionel"
+      }
+    ]
+  }
+}

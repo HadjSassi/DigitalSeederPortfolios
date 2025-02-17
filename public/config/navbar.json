@@ -4,6 +4,8 @@
     "About": "About",
     "Experience": "Experience",
     "Skill": "Skill",
+    "Service": "Service",
+    "Portfolio": "Portfolio",
     "Achievements": "Achievements",
     "Social": "Social Life",
     "Review": "Review",
@@ -14,6 +16,8 @@
     "About": "À propos",
     "Experience": "Expérience",
     "Skill": "Compétence",
+    "Service": "Service",
+    "Portfolio": "Portfolio",
     "Achievements": "Réalisations",
     "Social": "Vie sociale",
     "Hire": "Contactez-moi"

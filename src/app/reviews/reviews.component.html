@@ -1,0 +1,47 @@
+<!-- reviews.component.html -->
+<div class="container-fluid py-5" >
+  <div class="container">
+    <div class="position-relative d-flex align-items-center justify-content-center">
+      <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">{{config.title}}</h1>
+      <h1 class="position-absolute text-uppercase text-primary">{{config.subTitle}}</h1>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <div *ngIf="reviews.length > 0">
+          <!-- Carousel -->
+          <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div *ngFor="let review of reviews; let i = index"
+                   [attr.class]="'carousel-item ' + (i === 0 ? 'active' : '')">
+                <div class="text-center review-slide">
+                  <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
+                  <br>
+                  <img class="img-fluid rounded-circle mx-auto mb-3"
+                       [src]="review.imageAbout" alt="{{ review.name }}" style="width: 80px; height: 80px;">
+                  <h5 class="font-weight-bold m-0">{{ review.name }}</h5>
+                  <span>{{ review.position }}</span>
+                  <br>
+                  <h4 class="font-weight-light mb-4">{{ review.text }}</h4>
+                </div>
+              </div>
+            </div>
+
+            <button *ngIf="reviews.length > 1" class="carousel-control-prev border-0"
+                    type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            </button>
+
+            <button *ngIf="reviews.length > 1" class="carousel-control-next border-0"
+                    type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            </button>
+          </div>
+
+        </div>
+        <div *ngIf="reviews.length === 0" class="text-center">
+          <p>{{config.nothing}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

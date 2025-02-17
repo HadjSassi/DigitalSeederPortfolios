@@ -4,8 +4,11 @@ import {AboutComponent} from '../about/about.component';
 import {FooterComponent} from '../footer/footer.component';
 import {SkillsComponent} from '../skills/skills.component';
 import {ExperienceComponent} from '../experience/experience.component';
+import {ServicesComponent} from '../services/services.component';
+import {PortfolioComponent} from '../portfolio/portfolio.component';
 import {AchievementsComponent} from '../achievements/achievements.component';
 import {SocialLifeComponent} from '../social-life/social-life.component';
+import {ReviewsComponent} from '../reviews/reviews.component';
 import {CommonModule} from '@angular/common';
 import {ActivatedRoute, Router} from '@angular/router';
 
@@ -17,8 +20,11 @@ import {ActivatedRoute, Router} from '@angular/router';
     FooterComponent,
     SkillsComponent,
     ExperienceComponent,
+    ServicesComponent,
+    PortfolioComponent,
     AchievementsComponent,
     SocialLifeComponent,
+    ReviewsComponent,
     CommonModule
   ],
   templateUrl: './home.component.html',

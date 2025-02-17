@@ -2,30 +2,233 @@
   "en": {
     "socialActivities": [
       {
-        "title": "activity 1",
-        "title2": "little title",
-        "articleTitle": "Very little title",
-        "imageAbout": "/portfolio/social/IdentifierActivity1/img.jpg",
-        "id": "IdentifierActivity1",
-        "description2": "activity description",
+        "title": "ENSIT and Tunisia Ambassador in France",
+        "title2": "An international Ambassador",
+        "articleTitle": "Ambassador",
+        "imageAbout": "/portfolio/social/Presenting%20Tunisia/0.jpg",
+        "id": "Presenting Tunisia",
+        "description2": "I had the distinct honor of being selected as the ENSIT and Tunisia Ambassador at ENSEA France, where I was tasked with inviting second-year students to consider pursuing a double degree at my home institution, ENSIT. Representing my school in a foreign country was an immense privilege, and it filled me with pride to present the opportunities offered by ENSIT to my peers at ENSEA. It was a great honor to step outside of my comfort zone, surpass my own limits, and present everything in a language that was not my mother tongue. This experience not only allowed me to strengthen my leadership skills but also deepened my connection to both my school and my home country, showcasing the international collaboration between ENSIT and ENSEA.",
         "images": [
-          "portfolio/social/IdentifierActivity1/0.jpg",
-          "portfolio/social/IdentifierActivity1/1.jpg"
+          "portfolio/social/Presenting%20Tunisia/0.jpg",
+          "portfolio/social/Presenting%20Tunisia/1.jpg",
+          "portfolio/social/Presenting%20Tunisia/2.jpg",
+          "portfolio/social/Presenting%20Tunisia/3.jpg"
         ],
         "videos": [
-          "portfolio/social/IdentifierActivity1/4.mp4",
-          "portfolio/social/IdentifierActivity1/5.mp4"
+          "portfolio/social/Presenting%20Tunisia/4.mp4",
+          "portfolio/social/Presenting%20Tunisia/5.mp4"
         ]
       },
       {
-        "title": "activity 2",
-        "title2": "little title",
-        "articleTitle": "Very little title",
-        "imageAbout": "/portfolio/social/IdentifierActivity2/img.jpg",
-        "id": "IdentifierActivity2",
-        "description2": "activity description",
+        "title": "ENSIT Computer Science Responsable",
+        "title2": "Computer Science Class Responsible",
+        "articleTitle": "Study_Travel",
+        "imageAbout": "/portfolio/social/Voyage%20d'etude/0.jpg",
+        "id": "Voyage d'etude",
+        "description2": "I have always taken on the role of Computer Science class representative throughout my academic journey. I consistently assumed responsibility for representing my class, ensuring smooth communication between students and teachers, and keeping everyone informed. Additionally, I served as the primary liaison between the ENSIT administration and my class during our study trip in the second year. Acting as both a communicator and coordinator, I have always been the go-to person for organizing, relaying information, and maintaining a strong connection between students and faculty.",
         "images": [
-          "portfolio/social/IdentifierActivity2/0.jpg"
+          "portfolio/social/Voyage%20d'etude/0.jpg",
+          "portfolio/social/Voyage%20d'etude/1.jpg",
+          "portfolio/social/Voyage%20d'etude/2.jpg"
+        ],
+        "videos": [
+          "portfolio/social/Voyage%20d'etude/3.mp4"
+        ]
+      },
+      {
+        "title": "Insight Of ENSIT 9.0 Presenter",
+        "title2": "ENSIT Forum",
+        "articleTitle": "ENSIT Forum",
+        "imageAbout": "/portfolio/social/Insight%20of%20Ensit2/1.jpg",
+        "id": "Insight of Ensit2",
+        "description2": "Insight of ENSIT 9th Edition was a true challenge for me. On November 15th, in the Cultural City of Chedli El Klibi, I had the honor of presenting the event in Arabic for 5 hours in front of more than 500 attendees, including teachers, students, and professionals like CEOs and politicians. At first, the idea of speaking in front of such a large and distinguished audience was daunting, but once I said my first word, I found it surprisingly easy to continue. It became an iconic moment in my experience, one that greatly shaped my public speaking and presentation skills.",
+        "images": [
+          "portfolio/social/Insight%20of%20Ensit2/0.JPG",
+          "portfolio/social/Insight%20of%20Ensit2/1.jpg",
+          "portfolio/social/Insight%20of%20Ensit2/2.jpg",
+          "portfolio/social/Insight%20of%20Ensit2/3.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/4.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/5.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/6.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/7.JPG",
+          "portfolio/social/Insight%20of%20Ensit2/8.JPG",
+          "portfolio/social/Insight%20of%20Ensit2/9.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/Insight%20of%20Ensit2/10.mp4",
+          "portfolio/social/Insight%20of%20Ensit2/11.mp4",
+          "portfolio/social/Insight%20of%20Ensit2/12.mp4"
+        ]
+      },
+      {
+        "title": "Events Ambassador",
+        "title2": "A socially engaged person.",
+        "articleTitle": "Ambassador",
+        "imageAbout": "/portfolio/social/Ambassador/6.jpg",
+        "id": "ambassador",
+        "description2": "I have actively participated in a variety of events as an ambassador, where I took on leadership\n                    roles and contributed significantly to the success of each initiative. Throughout these experiences,\n                    I have demonstrated strong communication, organizational, and leadership skills while engaging with\n                    diverse audiences and fostering collaboration. My dedication and impact were recognized multiple\n                    times, as I was honored with Best Ambassador awards on several occasions. These achievements reflect\n                    my commitment to promoting and representing key projects, events, and organizations, ensuring their\n                    growth and visibility in various domains.",
+        "images": [
+          "portfolio/social/Ambassador/0.JPG",
+          "portfolio/social/Ambassador/1.jpg",
+          "portfolio/social/Ambassador/2.JPG",
+          "portfolio/social/Ambassador/3.jpg",
+          "portfolio/social/Ambassador/4.jpg",
+          "portfolio/social/Ambassador/5.jpg",
+          "portfolio/social/Ambassador/6.jpg",
+          "portfolio/social/Ambassador/7.jpeg"
+        ],
+        "videos": []
+      },
+      {
+        "title": "IEEEXtreme17.0 ENSIT Manager",
+        "title2": "IEEEXtreme 17.0",
+        "articleTitle": "IEEEXtreme",
+        "imageAbout": "/portfolio/social/IEEEXtreme17/0.jpg",
+        "id": "IEEEXtreme17",
+        "description2": "As Chair of IEEE ENSIT CS SBC, I led all aspects of the IEEEXtreme 17.0 event for our Student Branch, overseeing marketing, logistics, sponsorship, event coordination, and ambassador management. The event took place over 24 hours, from October 28 to 29, 2023, at our sponsor MIT Local. It was a spectacular event, filled with fun and excitement, though it also came with its challenges. Managing every detail of the event brought a lot of stress, but it was a rewarding experience that allowed me to develop crucial management and communication skills while ensuring the event ran smoothly.",
+        "images": [
+          "portfolio/social/IEEEXtreme17/0.jpg",
+          "portfolio/social/IEEEXtreme17/1.JPG",
+          "portfolio/social/IEEEXtreme17/2.JPG",
+          "portfolio/social/IEEEXtreme17/3.JPG",
+          "portfolio/social/IEEEXtreme17/4.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/IEEEXtreme17/4.mp4",
+          "portfolio/social/IEEEXtreme17/5.mp4"
+        ]
+      },
+      {
+        "title2": "IEEE 101 Bel tounsy Editor and Presenter",
+        "title": "IEEE 101 بل تونسي",
+        "articleTitle": "IEEE 101",
+        "imageAbout": "/portfolio/social/IEEE%20101/0.jpg",
+        "id": "IEEE 101",
+        "description2": "As Chair of the IEEE ENSIT CS Student Branch Chapter, I contributed to the IEEE 101 project, an initiative inspired by the IEEE 101 Egyptian version, where we introduced IEEE concepts in Tunisian dialect to make them more accessible. Our Student Branch decided to launch this project, and I took on the role of video editor for most of the content. Additionally, I was responsible for the narration of the IEEEXtreme 17.0 video, helping to bring the project to life and make IEEE more engaging for our local community.",
+        "images": [
+          "portfolio/social/IEEE%20101/0.jpg"
+        ],
+        "videos": [
+          "portfolio/social/IEEE%20101/1.mp4",
+          "portfolio/social/IEEE%20101/2.mp4",
+          "portfolio/social/IEEE%20101/3.mp4",
+          "portfolio/social/IEEE%20101/4.mp4"
+        ]
+      },
+      {
+        "title": "IEEE ENSIT CS SBC Chair",
+        "title2": "IEEE ENSIT",
+        "articleTitle": "IEEE ENSIT",
+        "imageAbout": "/portfolio/social/IEEE%20CS%20Chair/0.jpg",
+        "id": "IEEE CS Chair",
+        "description2": "In 2023, I was elected as the Chair of the IEEE ENSIT CS Student Branch Chapter, leading the IT group of the club. During my tenure, I achieved several milestones, including developing the IEEE ENSIT SB website with my dev team and creating a typing game, which we showcased on our website. I also organized multiple training sessions and played a key role in preparing for IEEEXtreme 17.0, one of the most significant IEEE CS competitions. Additionally, I led our team at TSYP11, where the IEEE CS Chapter of ENSIT was the only one from our school to win a prize till that date.",
+        "images": [
+          "portfolio/social/IEEE%20CS%20Chair/0.jpg",
+          "portfolio/social/IEEE%20CS%20Chair/1.jpg",
+          "portfolio/social/IEEE%20CS%20Chair/2.jpg",
+          "portfolio/social/IEEE%20CS%20Chair/3.jpg"
+        ],
+        "videos": [
+          "portfolio/social/IEEE%20CS%20Chair/4.mp4",
+          "portfolio/social/IEEE%20CS%20Chair/5.mp4"
+        ]
+      },
+      {
+        "title": "ENSIT Geeks Club Project Manager",
+        "title2": "ENSIT GEEKS",
+        "articleTitle": "ENSIT Geeks",
+        "imageAbout": "/portfolio/social/Geeks%20Project%20Manager/0.jpg",
+        "id": "Geeks Project Manager",
+        "description2": "In 2023, I was elected as the Project Manager of ENSIT Geeks Club, where I led and organized various impactful initiatives. I developed a club website to showcase our activities and presence in the field, as well as a website for our partner, Tunis Sports University. Additionally, I launched the ENSIT Geeks Club Store, where we sold products like stickers, hoodies, services, and other club-related items. I also developed the Geekshack3 application and, alongside my co-Project Manager, organized several problem-solving quests, fostering innovation and engagement within the club.",
+        "images": [
+          "portfolio/social/Geeks%20Project%20Manager/0.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/1.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/2.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/3.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/4.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/5.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/6.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/7.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/Geeks%20Project%20Manager/10.mp4"
+        ]
+      },
+      {
+        "title": "ENACTUS ENSIT Marketing Manager",
+        "title2": "ENACTUS ENSIT",
+        "articleTitle": "ENACTUS",
+        "imageAbout": "/portfolio/social/Enactus%20Ensit/0.jpg",
+        "id": "Enactus Ensit",
+        "description2": "I served as the Marketing Manager of Enactus ENSIT for a short but crucial period in 2022, with the goal of reviving the club within the school. During my one-semester tenure, I focused on creating engaging marketing videos and motivational content to attract and inspire new members, helping to rebuild the club’s presence and impact.",
+        "images": [
+          "portfolio/social/Enactus%20Ensit/0.jpg",
+          "portfolio/social/Enactus%20Ensit/1.jpg"
+        ],
+        "videos": [
+          "portfolio/social/Enactus%20Ensit/1.mp4",
+          "portfolio/social/Enactus%20Ensit/2.mp4"
+        ]
+      },
+      {
+        "title": "ATIA Machine Learning Bootcamp",
+        "title2": "A socially engaged person",
+        "articleTitle": "Bootcamp",
+        "imageAbout": "/portfolio/social/ATIA%20ML/0.jpg",
+        "id": "ATIA ML",
+        "description2": "I participated in the <b>ATIA Machine Learning Bootcamp</b> at the <b>Carthage Thalasso Gammarth 5-star\n                    hotel</b> from  August 23 to 25, 2022 an enriching experience that blended both learning and\n                    enjoyment. The bootcamp focused on medium-level Machine Learning, providing valuable insights\n                    and hands-on practice. Beyond the technical aspect, it was an opportunity to meet many amazing\n                    people, exchange ideas, and build connections. The atmosphere was both professional and enjoyable,\n                    making it a perfect balance between gaining knowledge and having fun, from engaging sessions to\n                    chilling with friends in a great setting.",
+        "images": [
+          "portfolio/social/ATIA%20ML/0.jpg",
+          "portfolio/social/ATIA%20ML/2.jpg",
+          "portfolio/social/ATIA%20ML/3.jpg",
+          "portfolio/social/ATIA%20ML/4.jpg",
+          "portfolio/social/ATIA%20ML/5.jpg"
+        ],
+        "videos": []
+      },
+      {
+        "title": "Oxfam  Bootcamp Participant",
+        "articleTitle": "Bootcamp",
+        "title2": "OXFAM Social Entrepreneurship",
+        "imageAbout": "/portfolio/social/Oxfam/0.jpg",
+        "id": "Oxfam",
+        "description2": "I participated in the Social Entrepreneurship Bootcamp at the Mehari 5-star Hotel, held from June 17 to 19, 2022. This bootcamp was a fantastic blend of learning and personal growth, focusing on social entrepreneurship. It offered valuable insights into building sustainable projects with a social impact. Beyond the workshops and training sessions, I had the chance to meet inspiring individuals, exchange ideas, and build connections that have been valuable in my professional journey. The event was a great mix of knowledge sharing and networking, all while enjoying a vibrant atmosphere.",
+        "images": [
+          "portfolio/social/Oxfam/0.jpg",
+          "portfolio/social/Oxfam/1.jpg",
+          "portfolio/social/Oxfam/2.jpg"
+        ],
+        "videos": [
+          "portfolio/social/Oxfam/3.mp4",
+          "portfolio/social/Oxfam/4.mp4"
+        ]
+      },
+      {
+        "title": "FSB Integration Day Presenter",
+        "articleTitle": "Integration",
+        "imageAbout": "/portfolio/social/FSB%20Integration%20Day/0.jpg",
+        "id": "FSB Integration Day",
+        "description2": "On September 16, 2021, I had my first-ever experience presenting an event in front of more than 100 people during FSB Integration Day. The event was planned by me and the IT department of FSB to welcome new students in the IT field. At first, I felt stressed, especially since I was presenting in front of my own professors, requiring a high level of professionalism. However, as I got into it, I became more comfortable, and the presentation went smoothly, making it a successful and memorable experience.",
+        "images": [
+          "portfolio/social/FSB%20Integration%20Day/0.jpg",
+          "portfolio/social/FSB%20Integration%20Day/1.jpg",
+          "portfolio/social/FSB%20Integration%20Day/2.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/FSB%20Integration%20Day/5.mp4"
+        ]
+      },
+      {
+        "title": "ENACTUS & 4C FSB Member",
+        "articleTitle": "ENACTUS & 4C",
+        "imageAbout": "/portfolio/social/Enactus%20FSB%20and%204C/0.jpg",
+        "id": "Enactus FSB and 4C",
+        "description2": "I was actively involved at FSB for three years, starting with Enactus in my first year, where I participated in national events, workshops, and training sessions, gaining valuable entrepreneurial skills. While remaining active in Enactus, I was also selected as a 4C junior member, alongside five other students. In this role, we led groups, shared knowledge, and guided fellow students, contributing to a collaborative and enriching learning environment.",
+        "images": [
+          "portfolio/social/Enactus%20FSB%20and%204C/0.jpg",
+          "portfolio/social/Enactus%20FSB%20and%204C/1.jpg",
+          "portfolio/social/Enactus%20FSB%20and%204C/2.jpg",
+          "portfolio/social/Enactus%20FSB%20and%204C/3.jpg"
         ],
         "videos": []
       }
@@ -34,30 +237,233 @@
   "fr": {
     "socialActivities": [
       {
-        "title": "activité 1",
-        "title2": "petit titre",
-        "articleTitle": "Très petit titre",
-        "imageAbout": "/portfolio/social/IdentifierActivity1/img.jpg",
-        "id": "IdentifierActivity1",
-        "description2": "description de l'activité",
+        "title": "Ambassadeur de l'ENSIT et de la Tunisie en France",
+        "title2": "Un ambassadeur international",
+        "articleTitle": "Ambassadeur",
+        "imageAbout": "/portfolio/social/Presenting%20Tunisia/0.jpg",
+        "id": "Presenting Tunisia",
+        "description2": "J'ai eu l'honneur distinct d'être sélectionné comme l'ambassadeur de l'ENSIT et de la Tunisie à l'ENSEA en France, où ma mission était d'inviter les étudiants de deuxième année à envisager de poursuivre un double diplôme dans mon institution d'origine, l'ENSIT. Représenter mon école dans un pays étranger était un privilège immense, et j'étais rempli de fierté de présenter les opportunités offertes par l'ENSIT à mes pairs à l'ENSEA. C'était un grand honneur de sortir de ma zone de confort, de dépasser mes propres limites, et de tout présenter dans une langue qui n'était pas ma langue maternelle. Cette expérience m'a non seulement permis de renforcer mes compétences en leadership, mais a également approfondi ma connexion à la fois avec mon école et mon pays d'origine, montrant la collaboration internationale entre l'ENSIT et l'ENSEA.",
         "images": [
-          "portfolio/social/IdentifierActivity1/0.jpg",
-          "portfolio/social/IdentifierActivity1/1.jpg"
+          "portfolio/social/Presenting%20Tunisia/0.jpg",
+          "portfolio/social/Presenting%20Tunisia/1.jpg",
+          "portfolio/social/Presenting%20Tunisia/2.jpg",
+          "portfolio/social/Presenting%20Tunisia/3.jpg"
         ],
         "videos": [
-          "portfolio/social/IdentifierActivity1/4.mp4",
-          "portfolio/social/IdentifierActivity1/5.mp4"
+          "portfolio/social/Presenting%20Tunisia/4.mp4",
+          "portfolio/social/Presenting%20Tunisia/5.mp4"
         ]
       },
       {
-        "title": "activity 2",
-        "title2": "petit titre",
-        "articleTitle": "Très petit titre",
-        "imageAbout": "/portfolio/social/IdentifierActivity2/img.jpg",
-        "id": "IdentifierActivity2",
-        "description2": "description de l'activité",
+        "title": "Responsable de la Classe d'Informatique de l'ENSIT",
+        "title2": "Responsable de Classe en Informatique",
+        "articleTitle": "Voyage d'étude",
+        "imageAbout": "/portfolio/social/Voyage%20d'etude/0.jpg",
+        "id": "Voyage d'etude",
+        "description2": "J'ai toujours endossé le rôle de représentant de la classe d'Informatique tout au long de mon parcours académique. J'ai constamment assumé la responsabilité de représenter ma classe, en veillant à une communication fluide entre les étudiants et les enseignants, et en maintenant tout le monde informé. De plus, j'ai servi de principal lien entre l'administration de l'ENSIT et ma classe lors de notre voyage d'étude en deuxième année. Agissant à la fois comme communicateur et coordinateur, j'ai toujours été la personne référente pour organiser, transmettre des informations, et maintenir une connexion solide entre les étudiants et le corps professoral.",
         "images": [
-          "portfolio/social/IdentifierActivity2/0.jpg"
+          "portfolio/social/Voyage%20d'etude/0.jpg",
+          "portfolio/social/Voyage%20d'etude/1.jpg",
+          "portfolio/social/Voyage%20d'etude/2.jpg"
+        ],
+        "videos": [
+          "portfolio/social/Voyage%20d'etude/3.mp4"
+        ]
+      },
+      {
+        "title": "Présentateur de l'Insight de l'ENSIT 9.0",
+        "title2": "Forum de l'ENSIT",
+        "articleTitle": "Forum de l'ENSIT",
+        "imageAbout": "/portfolio/social/Insight%20of%20Ensit2/1.jpg",
+        "id": "Insight of Ensit2",
+        "description2": "L'Insight de l'ENSIT, 9ème édition, a été un véritable défi pour moi. Le 15 novembre, dans la Cité Culturelle de Chedli El Klibi, j'ai eu l'honneur de présenter l'événement en arabe pendant 5 heures devant plus de 500 participants, y compris des enseignants, des étudiants et des professionnels tels que des PDG et des politiciens. Au début, l'idée de parler devant un public aussi large et distingué était intimidante, mais une fois que j'ai prononcé mon premier mot, j'ai trouvé étonnamment facile de continuer. Cela est devenu un moment emblématique de mon expérience, qui a grandement façonné mes compétences en prise de parole en public et en présentation.",
+        "images": [
+          "portfolio/social/Insight%20of%20Ensit2/0.JPG",
+          "portfolio/social/Insight%20of%20Ensit2/1.jpg",
+          "portfolio/social/Insight%20of%20Ensit2/2.jpg",
+          "portfolio/social/Insight%20of%20Ensit2/3.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/4.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/5.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/6.jpeg",
+          "portfolio/social/Insight%20of%20Ensit2/7.JPG",
+          "portfolio/social/Insight%20of%20Ensit2/8.JPG",
+          "portfolio/social/Insight%20of%20Ensit2/9.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/Insight%20of%20Ensit2/10.mp4",
+          "portfolio/social/Insight%20of%20Ensit2/11.mp4",
+          "portfolio/social/Insight%20of%20Ensit2/12.mp4"
+        ]
+      },
+      {
+        "title": "Ambassadeur d'Événements",
+        "title2": "Une personne engagée socialement.",
+        "articleTitle": "Ambassadeur",
+        "imageAbout": "/portfolio/social/Ambassador/6.jpg",
+        "id": "ambassador",
+        "description2": "J'ai activement participé à une variété d'événements en tant qu'ambassadeur, où j'ai pris des rôles de leadership et contribué de manière significative au succès de chaque initiative. Tout au long de ces expériences, j'ai démontré de solides compétences en communication, en organisation et en leadership tout en interagissant avec des publics diversifiés et en favorisant la collaboration. Mon dévouement et mon impact ont été reconnus à plusieurs reprises, car j'ai eu l'honneur de recevoir des prix de Meilleur Ambassadeur à plusieurs occasions. Ces réalisations reflètent mon engagement à promouvoir et représenter des projets, événements et organisations clés, garantissant leur croissance et leur visibilité dans divers domaines.",
+        "images": [
+          "portfolio/social/Ambassador/0.JPG",
+          "portfolio/social/Ambassador/1.jpg",
+          "portfolio/social/Ambassador/2.JPG",
+          "portfolio/social/Ambassador/3.jpg",
+          "portfolio/social/Ambassador/4.jpg",
+          "portfolio/social/Ambassador/5.jpg",
+          "portfolio/social/Ambassador/6.jpg",
+          "portfolio/social/Ambassador/7.jpeg"
+        ],
+        "videos": []
+      },
+      {
+        "title": "Responsable IEEEXtreme 17.0 de l'ENSIT",
+        "title2": "IEEEXtreme 17.0",
+        "articleTitle": "IEEEXtreme",
+        "imageAbout": "/portfolio/social/IEEEXtreme17/0.jpg",
+        "id": "IEEEXtreme17",
+        "description2": "En tant que président de l'IEEE ENSIT CS SBC, j'ai dirigé tous les aspects de l'événement IEEEXtreme 17.0 pour notre branche étudiante, supervisant le marketing, la logistique, le parrainage, la coordination de l'événement et la gestion des ambassadeurs. L'événement a eu lieu sur 24 heures, du 28 au 29 octobre 2023, chez notre sponsor MIT Local. C'était un événement spectaculaire, rempli de plaisir et d'excitation, bien qu'il ait également présenté des défis. Gérer chaque détail de l'événement a apporté beaucoup de stress, mais c'était une expérience enrichissante qui m'a permis de développer des compétences cruciales en gestion et en communication tout en veillant à ce que l'événement se déroule sans accroc.",
+        "images": [
+          "portfolio/social/IEEEXtreme17/0.jpg",
+          "portfolio/social/IEEEXtreme17/1.JPG",
+          "portfolio/social/IEEEXtreme17/2.JPG",
+          "portfolio/social/IEEEXtreme17/3.JPG",
+          "portfolio/social/IEEEXtreme17/4.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/IEEEXtreme17/4.mp4",
+          "portfolio/social/IEEEXtreme17/5.mp4"
+        ]
+      },
+      {
+        "title2": "Rédacteur et Présentateur de l'IEEE 101 بل تونسي",
+        "title": "IEEE 101 بل تونسي",
+        "articleTitle": "IEEE 101",
+        "imageAbout": "/portfolio/social/IEEE%20101/0.jpg",
+        "id": "IEEE 101",
+        "description2": "En tant que président du chapitre étudiant de l'IEEE ENSIT CS, j'ai contribué au projet IEEE 101, une initiative inspirée de la version égyptienne de l'IEEE 101, où nous avons introduit des concepts IEEE en dialecte tunisien pour les rendre plus accessibles. Notre branche étudiante a décidé de lancer ce projet, et j'ai joué le rôle de monteur vidéo pour la plupart des contenus. De plus, j'étais responsable de la narration de la vidéo de l'IEEEXtreme 17.0, aidant à donner vie au projet et à rendre l'IEEE plus engageant pour notre communauté locale.",
+        "images": [
+          "portfolio/social/IEEE%20101/0.jpg"
+        ],
+        "videos": [
+          "portfolio/social/IEEE%20101/1.mp4",
+          "portfolio/social/IEEE%20101/2.mp4",
+          "portfolio/social/IEEE%20101/3.mp4",
+          "portfolio/social/IEEE%20101/4.mp4"
+        ]
+      },
+      {
+        "title": "Président du Chapitre Étudiant IEEE ENSIT CS",
+        "title2": "IEEE ENSIT",
+        "articleTitle": "IEEE ENSIT",
+        "imageAbout": "/portfolio/social/IEEE%20CS%20Chair/0.jpg",
+        "id": "IEEE CS Chair",
+        "description2": "En 2023, j'ai été élu président du chapitre étudiant IEEE ENSIT CS, dirigeant le groupe informatique du club. Pendant mon mandat, j'ai atteint plusieurs jalons, notamment le développement du site web de la branche étudiante IEEE ENSIT avec mon équipe de développement et la création d'un jeu de dactylographie, que nous avons présenté sur notre site. J'ai également organisé plusieurs sessions de formation et joué un rôle clé dans les préparatifs de l'IEEEXtreme 17.0, l'une des compétitions IEEE CS les plus significatives. De plus, j'ai dirigé notre équipe lors de TSYP11, où le chapitre IEEE CS de l'ENSIT a été le seul de notre école à remporter un prix jusqu'à ce jour.",
+        "images": [
+          "portfolio/social/IEEE%20CS%20Chair/0.jpg",
+          "portfolio/social/IEEE%20CS%20Chair/1.jpg",
+          "portfolio/social/IEEE%20CS%20Chair/2.jpg",
+          "portfolio/social/IEEE%20CS%20Chair/3.jpg"
+        ],
+        "videos": [
+          "portfolio/social/IEEE%20CS%20Chair/4.mp4",
+          "portfolio/social/IEEE%20CS%20Chair/5.mp4"
+        ]
+      },
+      {
+        "title": "Responsable de Projet du Club ENSIT Geeks",
+        "title2": "ENSIT GEEKS",
+        "articleTitle": "ENSIT Geeks",
+        "imageAbout": "/portfolio/social/Geeks%20Project%20Manager/0.jpg",
+        "id": "Geeks Project Manager",
+        "description2": "En 2023, j'ai été élu responsable de projet du Club ENSIT Geeks, où j'ai dirigé et organisé diverses initiatives impactantes. J'ai développé un site web pour le club afin de mettre en valeur nos activités et notre présence dans le domaine, ainsi qu'un site pour notre partenaire, l'Université Tunis Sport. De plus, j'ai lancé la boutique du Club ENSIT Geeks, où nous avons vendu des produits comme des autocollants, des sweats à capuche, des services et d'autres articles liés au club. J'ai également développé l'application Geekshack3 et, avec mon co-responsable de projet, organisé plusieurs quêtes de résolution de problèmes, favorisant l'innovation et l'engagement au sein du club.",
+        "images": [
+          "portfolio/social/Geeks%20Project%20Manager/0.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/1.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/2.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/3.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/4.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/5.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/6.jpg",
+          "portfolio/social/Geeks%20Project%20Manager/7.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/Geeks%20Project%20Manager/10.mp4"
+        ]
+      },
+      {
+        "title": "Responsable Marketing d'ENACTUS ENSIT",
+        "title2": "ENACTUS ENSIT",
+        "articleTitle": "ENACTUS",
+        "imageAbout": "/portfolio/social/Enactus%20Ensit/0.jpg",
+        "id": "Enactus Ensit",
+        "description2": "J'ai occupé le poste de responsable marketing d'ENACTUS ENSIT pendant une période courte mais cruciale en 2022, avec pour objectif de revitaliser le club au sein de l'école. Pendant mon mandat d'un semestre, je me suis concentré sur la création de vidéos marketing engageantes et de contenus motivants pour attirer et inspirer de nouveaux membres, contribuant ainsi à reconstruire la présence et l'impact du club.",
+        "images": [
+          "portfolio/social/Enactus%20Ensit/0.jpg",
+          "portfolio/social/Enactus%20Ensit/1.jpg"
+        ],
+        "videos": [
+          "portfolio/social/Enactus%20Ensit/1.mp4",
+          "portfolio/social/Enactus%20Ensit/2.mp4"
+        ]
+      },
+      {
+        "title": "Bootcamp de Machine Learning ATIA",
+        "title2": "Une personne engagée socialement",
+        "articleTitle": "Bootcamp",
+        "imageAbout": "/portfolio/social/ATIA%20ML/0.jpg",
+        "id": "ATIA ML",
+        "description2": "J'ai participé au <b>Bootcamp de Machine Learning ATIA</b> à l'<b>hôtel 5 étoiles Carthage Thalasso Gammarth</b> du 23 au 25 août 2022, une expérience enrichissante qui a mêlé apprentissage et plaisir. Le bootcamp s'est concentré sur le Machine Learning à un niveau intermédiaire, offrant des perspectives précieuses et une pratique concrète. Au-delà de l'aspect technique, c'était une occasion de rencontrer de nombreuses personnes formidables, d'échanger des idées et de tisser des liens. L'atmosphère était à la fois professionnelle et agréable, offrant un parfait équilibre entre l'acquisition de connaissances et le divertissement, des sessions engageantes aux moments de détente entre amis dans un cadre magnifique.",
+        "images": [
+          "portfolio/social/ATIA%20ML/0.jpg",
+          "portfolio/social/ATIA%20ML/2.jpg",
+          "portfolio/social/ATIA%20ML/3.jpg",
+          "portfolio/social/ATIA%20ML/4.jpg",
+          "portfolio/social/ATIA%20ML/5.jpg"
+        ],
+        "videos": []
+      },
+      {
+        "title": "Participant au Bootcamp Oxfam",
+        "articleTitle": "Bootcamp",
+        "title2": "OXFAM Entrepreneuriat Social",
+        "imageAbout": "/portfolio/social/Oxfam/0.jpg",
+        "id": "Oxfam",
+        "description2": "J'ai participé au Bootcamp d'Entrepreneuriat Social à l'Hôtel 5 étoiles Mehari, qui s'est tenu du 17 au 19 juin 2022. Ce bootcamp était un mélange fantastique d'apprentissage et de développement personnel, axé sur l'entrepreneuriat social. Il a offert des perspectives précieuses sur la création de projets durables ayant un impact social. Au-delà des ateliers et des sessions de formation, j'ai eu l'occasion de rencontrer des personnes inspirantes, d'échanger des idées et de tisser des liens qui ont été précieux dans mon parcours professionnel. L'événement était un excellent mélange de partage de connaissances et de mise en réseau, le tout dans une atmosphère dynamique.",
+        "images": [
+          "portfolio/social/Oxfam/0.jpg",
+          "portfolio/social/Oxfam/1.jpg",
+          "portfolio/social/Oxfam/2.jpg"
+        ],
+        "videos": [
+          "portfolio/social/Oxfam/3.mp4",
+          "portfolio/social/Oxfam/4.mp4"
+        ]
+      },
+      {
+        "title": "Présentateur de la Journée d'Intégration FSB",
+        "articleTitle": "Intégration",
+        "imageAbout": "/portfolio/social/FSB%20Integration%20Day/0.jpg",
+        "id": "FSB Integration Day",
+        "description2": "Le 16 septembre 2021, j'ai eu ma première expérience de présentation d'un événement devant plus de 100 personnes lors de la Journée d'Intégration FSB. L'événement a été planifié par moi et le département informatique de la FSB pour accueillir les nouveaux étudiants dans le domaine de l'informatique. Au début, je me sentais stressé, surtout parce que je présentais devant mes propres professeurs, ce qui nécessitait un haut niveau de professionnalisme. Cependant, au fur et à mesure que je me suis lancé, je suis devenu plus à l'aise, et la présentation s'est bien déroulée, faisant de cette expérience un moment réussi et mémorable.",
+        "images": [
+          "portfolio/social/FSB%20Integration%20Day/0.jpg",
+          "portfolio/social/FSB%20Integration%20Day/1.jpg",
+          "portfolio/social/FSB%20Integration%20Day/2.jpeg"
+        ],
+        "videos": [
+          "portfolio/social/FSB%20Integration%20Day/5.mp4"
+        ]
+      },
+      {
+        "title": "Membre d'ENACTUS & 4C FSB",
+        "articleTitle": "ENACTUS & 4C",
+        "imageAbout": "/portfolio/social/Enactus%20FSB%20and%204C/0.jpg",
+        "id": "Enactus FSB and 4C",
+        "description2": "J'ai été activement impliqué à la FSB pendant trois ans, en commençant par Enactus lors de ma première année, où j'ai participé à des événements nationaux, des ateliers et des sessions de formation, acquérant ainsi des compétences entrepreneuriales précieuses. Tout en restant actif dans Enactus, j'ai également été sélectionné comme membre junior de 4C, aux côtés de cinq autres étudiants. Dans ce rôle, nous avons dirigé des groupes, partagé des connaissances et guidé nos camarades, contribuant à un environnement d'apprentissage collaboratif et enrichissant.",
+        "images": [
+          "portfolio/social/Enactus%20FSB%20and%204C/0.jpg",
+          "portfolio/social/Enactus%20FSB%20and%204C/1.jpg",
+          "portfolio/social/Enactus%20FSB%20and%204C/2.jpg",
+          "portfolio/social/Enactus%20FSB%20and%204C/3.jpg"
         ],
         "videos": []
       }

@@ -2,56 +2,220 @@
   "en": {
     "education": [
       {
-        "degree": "Degree 2",
-        "institution": "Locatoin Degree 2",
-        "institutionLink": "https://link degree 2",
-        "duration": "AAAA - AAAA",
-        "description": "Description Degree 2"
+        "degree": "Software Engineering (Dual Degree)",
+        "institution": "ENSEA",
+        "institutionLink": "https://www.ensea.fr",
+        "duration": "2024 - 2026",
+        "description": "I am currently pursuing a dual-degree program in computer engineering at the École Nationale\n                            Supérieure de l'Électronique et de ses Applications (ENSEA) in France, with a focus on\n                            embedded systems, software development, and AI. This program is part of a special\n                            partnership between ENSEA and my previous school, the École Nationale Supérieure\n                            d'Ingénieurs de Tunis (ENSIT). The partnership allows elite students to complete their\n                            second year of studies at ENSEA and finish their degree in France."
       },
       {
-        "degree": "Degree 1",
-        "institution": "Location Degree 1",
-        "institutionLink": "https://link degree 3",
-        "duration": "AAAA - AAAA",
-        "description": "Description Degree 1"
+        "degree": "Software Engineering",
+        "institution": "ENSIT",
+        "institutionLink": "https://www.ensit.tn",
+        "duration": "2022 - 2026",
+        "description": "I am enrolled in the École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT), having been\n                            accepted through the highly competitive concours spécifique for entry into engineering\n                            schools. While the standard program lasts three years, I am pursuing a four-year track due\n                            to my dual-degree program with ENSEA in France. During my first two years at ENSIT, I was\n                            the top student in both my promotion and the entire school, an achievement that granted me\n                            the opportunity to continue my studies in France through the partnership with ENSEA."
+      },
+      {
+        "degree": "Bachelor in Software Engineering",
+        "institution": "FSB",
+        "institutionLink": "https://www.fsb.rnu.tn/",
+        "duration": "2019 - 2022",
+        "description": "I graduated in 2022 from the Faculty of Science of Bizerte with a degree in Software\n                            Engineering and Information Systems. Throughout the three years of my undergraduate studies,\n                            I consistently excelled academically, earning the title of top student in my class each\n                            year."
+      },
+      {
+        "degree": "Baccalaureate in Mathematics",
+        "institution": "ASSAD IBN EL FOURAT High School",
+        "institutionLink": "https://ween.tn/fiche/lycee-assad-ibn-fourat",
+        "duration": "2016 - 2019",
+        "description": "I attended Assad Ibn El Fourat High School, where I graduated in 2019 with a Baccalaureate in\n                            Mathematics, earning the mention Assez Bien. I began my high school journey in 2016 in the\n                            second-year science stream, progressed to the third-year mathematics stream, and ultimately\n                            specialized in mathematics for my final year."
+      },
+      {
+        "degree": "English C1 Level",
+        "institution": "Amideast",
+        "institutionLink": "https://www.amideast.org/tunisia",
+        "duration": "2016 - 2018",
+        "description": "Enrolled at AMIDEAST Tunisia in 2016, initially starting with an A2 level of proficiency in\n                            the language. Over the course of two years, I dedicated myself to improving my skills and\n                            successfully achieved a C1 level."
+      },
+      {
+        "degree": "Oued Ellil High School",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2015 - 2016",
+        "description": "I initially attended Oued Ellil High School in 2015, where I completed my first year of\n                            secondary education before transferring to Assad Ibn El Fourat High School to continue my\n                            studies."
+      },
+      {
+        "degree": "CHEBAW College",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2012 - 2015",
+        "description": "I studied at Chebbaw Middle School from 2012 to 2015, which is the educational level between\n                            primary school and high school."
+      },
+      {
+        "degree": "RACHED Primary School",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2006 - 2012",
+        "description": "I began my education at Rached Primary School in Mannouba, where I studied from 2006,\n                            starting at the age of 6, until 2012."
       }
     ],
     "experience": [
       {
-        "title": "Exprience 1",
-        "institution": "Location Experience 1",
-        "institutionLink": "https://link experience 1",
-        "duration": "DD/MM/AAAA - DD/MM/AAAA",
-        "description": "Description Experience 1",
-        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+        "title": "PFA: Desktop app for Quiz Creation",
+        "institution": "ENSEA",
+        "institutionLink": "https://www.ensea.fr",
+        "duration": "17/09/2024 - 01/04/2025",
+        "description": "Developed a desktop application for creating quizzes and exams, inspired by the AMC\n                            application. The tool allows for the efficient creation of various question types and\n                            supports machine-based automatic grading, streamlining the assessment process. The project\n                            is currently in progress.",
+        "technologies": ["JavaFX", "MySQL", "LaTeX"]
+      },
+      {
+        "title": "PFA: GameDev for simulating student Life in ENSIT",
+        "institution": "ENSIT",
+        "institutionLink": "https://www.ensit.tn",
+        "duration": "01/02/2024 - 02/05/2024",
+        "description": "Developed a virtual tour application for the École Nationale Supérieure d'Ingénieurs de Tunis\n                            (ENSIT). The application allows users to explore the ENSIT campus through an immersive\n                            experience, offering interactive exploration. ",
+        "technologies": ["C#", "Unity", "Blender", "Meshroom", "ReadyPlayerMe"]
+      },
+      {
+        "title": "Summer Internship: Design and develop an automation application for Trading",
+        "institution": "HELCHI Solution",
+        "institutionLink": "https://www.dnb.com/business-directory/company-profiles.helchi_solution.0b81d3d875caafcd208af3946c312198.html",
+        "duration": "01/06/2023 - 01/07/2023",
+        "description": "Designed and developed an automation application for trading, utilizing algorithms such as\n                            Trix and Cocotier. After completing the initial tasks, implemented web scraping techniques\n                            to select the best products to trade from Amazon, enhancing the application’s functionality\n                            and decision-making process.",
+        "technologies": ["Python", "Streamlit", "Selenium", "JungleScout"]
+      },
+      {
+        "title": "PFA: E-Commerce Web and Mobile Dev",
+        "institution": "ENSIT",
+        "institutionLink": "https://www.ensit.tn",
+        "duration": "02/02/2023 - 28/05/2023",
+        "description": "This project involved building both the front-end and back-end components, ensuring seamless\n                            integration between the web and mobile platforms. The application aimed to provide a smooth\n                            user experience for browsing and purchasing products while ensuring efficient data\n                            management with MySQL.",
+        "technologies": ["Angular", "Ionic6", "Spring", "MySql"]
+      },
+      {
+        "title": "PFE: Design And Develop U-BooK Application",
+        "institution": "FSB",
+        "institutionLink": "https://www.fsb.rnu.tn",
+        "duration": "01/02/2022 - 31/05/2022",
+        "description": "Final Year Project (Bachelor's Degree in Computer Science and Engineering): Developed a\n                            university social media platform for exchanging documents and resources. The project\n                            consists of three main components: the entrepreneurial idea and business management, the\n                            development of the application’s infrastructure, and the integration of artificial\n                            intelligence to manage processes within the platform, enhancing its functionality and user\n                            experience.",
+        "technologies": ["Angular", "Spring", "MySql", "Python", "SickitLearn"]
+      },
+      {
+        "title": "Freelance",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2022",
+        "description": "Freelance work in media editing, including picture and video editing, as well as in the\n                            development of applications and algorithms. These projects provided valuable experience and\n                            financial support, serving as a starting point for my career.",
+        "technologies": []
       }
     ]
   },
   "fr": {
     "education": [
       {
-        "degree": "Diplôme 2",
-        "institution": "Lieu Diplôme 2",
-        "institutionLink": "https://lien diplôme 2",
-        "duration": "AAAA - AAAA",
-        "description": "Description Diplôme 2"
+        "degree": "Ingénierie Logicielle (Double Diplôme)",
+        "institution": "ENSEA",
+        "institutionLink": "https://www.ensea.fr",
+        "duration": "2024 - 2026",
+        "description": "Je poursuis actuellement un programme de double diplôme en ingénierie informatique à l'École Nationale Supérieure de l'Électronique et de ses Applications (ENSEA) en France, avec un accent sur les systèmes embarqués, le développement logiciel et l'IA. Ce programme fait partie d'un partenariat spécial entre l'ENSEA et mon ancienne école, l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT). Ce partenariat permet aux étudiants d'élite de compléter leur deuxième année d'études à l'ENSEA et de terminer leur diplôme en France."
       },
       {
-        "degree": "Diplôme 1",
-        "institution": "Lieu Diplôme 1",
-        "institutionLink": "https://lien diplôme 3",
-        "duration": "AAAA - AAAA",
-        "description": "Description Diplôme 1"
+        "degree": "Ingénierie Logicielle",
+        "institution": "ENSIT",
+        "institutionLink": "https://www.ensit.tn",
+        "duration": "2022 - 2026",
+        "description": "Je suis inscrit à l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT), ayant été accepté par le biais du concours spécifique très compétitif pour entrer dans les écoles d'ingénieurs. Bien que le programme standard dure trois ans, je poursuis un parcours de quatre ans en raison de mon programme de double diplôme avec l'ENSEA en France. Au cours de mes deux premières années à l'ENSIT, j'ai été le meilleur étudiant de ma promotion et de l'ensemble de l'école, ce qui m'a permis de continuer mes études en France grâce au partenariat avec l'ENSEA."
+      },
+      {
+        "degree": "Licence en Ingénierie Logicielle",
+        "institution": "FSB",
+        "institutionLink": "https://www.fsb.rnu.tn/",
+        "duration": "2019 - 2022",
+        "description": "J'ai obtenu mon diplôme en 2022 de la Faculté des Sciences de Bizerte avec une licence en Ingénierie Logicielle et Systèmes d'Information. Tout au long des trois années de mes études de premier cycle, j'ai constamment excellé académiquement, gagnant le titre de meilleur étudiant de ma classe chaque année."
+      },
+      {
+        "degree": "Baccalauréat en Mathématiques",
+        "institution": "Lycée ASSAD IBN EL FOURAT",
+        "institutionLink": "https://ween.tn/fiche/lycee-assad-ibn-fourat",
+        "duration": "2016 - 2019",
+        "description": "J'ai fréquenté le Lycée Assad Ibn El Fourat, où j'ai obtenu mon baccalauréat en Mathématiques en 2019, avec la mention Assez Bien. J'ai commencé mon parcours au lycée en 2016 en filière sciences en deuxième année, puis j'ai progressé en filière mathématiques en troisième année, pour finalement me spécialiser en mathématiques lors de ma dernière année."
+      },
+      {
+        "degree": "Anglais Niveau C1",
+        "institution": "Amideast",
+        "institutionLink": "https://www.amideast.org/tunisia",
+        "duration": "2016 - 2018",
+        "description": "Inscrit à AMIDEAST Tunisie en 2016, j'ai initialement commencé avec un niveau A2 de compétence dans la langue. Au cours de deux années, je me suis consacré à améliorer mes compétences et j'ai réussi à atteindre un niveau C1."
+      },
+      {
+        "degree": "Lycée Oued Ellil",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2015 - 2016",
+        "description": "J'ai d'abord fréquenté le Lycée Oued Ellil en 2015, où j'ai complété ma première année de l'enseignement secondaire avant de transférer au Lycée Assad Ibn El Fourat pour continuer mes études."
+      },
+      {
+        "degree": "Collège CHEBAW",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2012 - 2015",
+        "description": "J'ai étudié au Collège Chebbaw de 2012 à 2015, qui est le niveau éducatif entre l'école primaire et le lycée."
+      },
+      {
+        "degree": "École Primaire RACHED",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2006 - 2012",
+        "description": "J'ai commencé mon éducation à l'École Primaire Rached à Mannouba, où j'ai étudié de 2006, à l'âge de 6 ans, jusqu'en 2012."
       }
     ],
     "experience": [
       {
-        "title": "Expérience 1",
-        "institution": "Lieu Expérience 1",
-        "institutionLink": "https://lien expérience 1",
-        "duration": "JJ/MM/AAAA - JJ/MM/AAAA",
-        "description": "Description Expérience 1",
-        "technologies": ["Technologie 1", "Technologie 2", "Technologie 3"]
+        "title": "PFA : Application de bureau pour la création de quiz",
+        "institution": "ENSEA",
+        "institutionLink": "https://www.ensea.fr",
+        "duration": "17/09/2024 - 01/04/2025",
+        "description": "Développement d'une application de bureau pour créer des quiz et des examens, inspirée par l'application AMC. L'outil permet la création efficace de différents types de questions et prend en charge la notation automatique par machine, rationalisant ainsi le processus d'évaluation. Le projet est actuellement en cours.",
+        "technologies": ["JavaFX", "MySQL", "LaTeX"]
+      },
+      {
+        "title": "PFA : GameDev pour simuler la vie étudiante à l'ENSIT",
+        "institution": "ENSIT",
+        "institutionLink": "https://www.ensit.tn",
+        "duration": "01/02/2024 - 02/05/2024",
+        "description": "Développement d'une application de visite virtuelle pour l'École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT). L'application permet aux utilisateurs d'explorer le campus de l'ENSIT à travers une expérience immersive, offrant une exploration interactive.",
+        "technologies": ["C#", "Unity", "Blender", "Meshroom", "ReadyPlayerMe"]
+      },
+      {
+        "title": "Stage d'été : Conception et développement d'une application d'automatisation pour le trading",
+        "institution": "HELCHI Solution",
+        "institutionLink": "https://www.dnb.com/business-directory/company-profiles.helchi_solution.0b81d3d875caafcd208af3946c312198.html",
+        "duration": "01/06/2023 - 01/07/2023",
+        "description": "Conception et développement d'une application d'automatisation pour le trading, utilisant des algorithmes tels que Trix et Cocotier. Après avoir terminé les tâches initiales, j'ai mis en œuvre des techniques de web scraping pour sélectionner les meilleurs produits à trader sur Amazon, améliorant ainsi la fonctionnalité de l'application et le processus de prise de décision.",
+        "technologies": ["Python", "Streamlit", "Selenium", "JungleScout"]
+      },
+      {
+        "title": "PFA : Développement Web et Mobile E-Commerce",
+        "institution": "ENSIT",
+        "institutionLink": "https://www.ensit.tn",
+        "duration": "02/02/2023 - 28/05/2023",
+        "description": "Ce projet impliquait la construction des composants front-end et back-end, assurant une intégration fluide entre les plateformes web et mobile. L'application visait à offrir une expérience utilisateur agréable pour naviguer et acheter des produits tout en garantissant une gestion efficace des données avec MySQL.",
+        "technologies": ["Angular", "Ionic6", "Spring", "MySql"]
+      },
+      {
+        "title": "PFE : Conception et développement de l'application U-BooK",
+        "institution": "FSB",
+        "institutionLink": "https://www.fsb.rnu.tn",
+        "duration": "01/02/2022 - 31/05/2022",
+        "description": "Projet de fin d'études (Licence en Informatique et Génie Logiciel) : Développement d'une plateforme de médias sociaux universitaire pour l'échange de documents et de ressources. Le projet est composé de trois composantes principales : l'idée entrepreneuriale et la gestion d'entreprise, le développement de l'infrastructure de l'application, et l'intégration de l'intelligence artificielle pour gérer les processus au sein de la plateforme, améliorant ainsi sa fonctionnalité et son expérience utilisateur.",
+        "technologies": ["Angular", "Spring", "MySql", "Python", "SickitLearn"]
+      },
+      {
+        "title": "Freelance",
+        "institution": "",
+        "institutionLink": "",
+        "duration": "2022",
+        "description": "Travail freelance en montage vidéo et photo, ainsi que dans le développement d'applications et d'algorithmes. Ces projets ont fourni une expérience précieuse et un soutien financier, servant de point de départ pour ma carrière.",
+        "technologies": []
       }
     ]
   }

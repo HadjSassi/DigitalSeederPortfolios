@@ -1,15 +1,151 @@
 [
   {
-    "name": "Skill 1",
+    "name": "C",
     "percentage": 80,
-    "logo": "url vers le logo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
     "color": "#0077CC"
   },
   {
-    "name": "Skill 2",
+    "name": "C++",
     "percentage": 70,
-    "logo": "url vers le logo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
     "color": "#00599C"
+  },
+  {
+    "name": "C#",
+    "percentage": 65,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png",
+    "color": "#68217A"
+  },
+  {
+    "name": "Java",
+    "percentage": 85,
+    "logo": "https://classes.engineering.wustl.edu/cse425s/images/2/26/Java.png",
+    "color": "#F89820"
+  },
+  {
+    "name": "Spring",
+    "percentage": 70,
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png",
+    "color": "#6DB33F"
+  },
+  {
+    "name": "JavaFx",
+    "percentage": 60,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png",
+    "color": "#6DB33F",
+    "style": "width: 20%"
+  },
+  {
+    "name": "Junit",
+    "percentage": 55,
+    "logo": "https://e7.pngegg.com/pngimages/928/911/png-clipart-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-thumbnail.png",
+    "color": "#FF6F61"
+  },
+  {
+    "name": "Python",
+    "percentage": 80,
+    "logo": "https://img.icons8.com/color/512/python.png",
+    "color": "#3776AB"
+  },
+  {
+    "name": "Flask",
+    "percentage": 70,
+    "logo": "https://static-00.iconduck.com/assets.00/flask-icon-399x512-v0hqbifs.png",
+    "color": "#6DB33F"
+  },
+  {
+    "name": "Streamlit",
+    "percentage": 65,
+    "logo": "https://images.seeklogo.com/logo-png/44/2/streamlit-logo-png_seeklogo-441815.png",
+    "color": "#FD5C63"
+  },
+  {
+    "name": "Selenium",
+    "percentage": 70,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png",
+    "color": "#43B02A"
+  },
+  {
+    "name": "PHP",
+    "percentage": 60,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+    "color": "#4F5B93",
+    "style": "width: 20%"
+  },
+  {
+    "name": "JavaScript",
+    "percentage": 85,
+    "logo": "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png",
+    "color": "#F7DF1E"
+  },
+  {
+    "name": "TypeScript",
+    "percentage": 80,
+    "logo": "https://cdn-icons-png.flaticon.com/512/919/919832.png",
+    "color": "#007ACC"
+  },
+  {
+    "name": "Angular",
+    "percentage": 70,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
+    "color": "#DD0031"
+  },
+  {
+    "name": "Ionic",
+    "percentage": 50,
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/free-ionic-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2945013.png",
+    "color": "#388E3C"
+  },
+  {
+    "name": "Databases",
+    "percentage": 75,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png",
+    "color": "#FCA121",
+    "style": "width: 20%"
+  },
+  {
+    "name": "UML",
+    "percentage": 70,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAm56KxOvcav1Ze35W9hWx2gRFlWLYbCwpA&s",
+    "color": "#A60064"
+  },
+  {
+    "name": "AI & ML",
+    "percentage": 60,
+    "logo": "https://cdn-icons-png.flaticon.com/512/9887/9887948.png",
+    "color": "#FF5722"
+  },
+  {
+    "name": "Linux",
+    "percentage": 70,
+    "logo": "https://pngimg.com/d/linux_PNG1.png",
+    "color": "#FCC624"
+  },
+  {
+    "name": "LaTeX",
+    "percentage": 60,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg",
+    "color": "#008080",
+    "style": "width: 20%"
+  },
+  {
+    "name": "Git",
+    "percentage": 80,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png",
+    "color": "#F05032"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "percentage": 40,
+    "logo": "https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png",
+    "color": "#31A8FF"
+  },
+  {
+    "name": "Adobe Premier Pro",
+    "percentage": 35,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qJrCd6_vXcgrq3waJHJyGNmG4VhysbmQbg&s",
+    "color": "#D50032"
   }
 ]
 

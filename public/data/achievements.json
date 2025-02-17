@@ -2,58 +2,190 @@
   "en": {
     "achievements": [
       {
-        "category": "Category 1",
+        "category": "Computer Science",
         "items": [
           {
-            "title": "Achievement 1",
-            "date": "xx/MM/AAAA",
-            "location": "Location",
-            "description": "Short Description, you can add links like this : <a href=\"https://link/\">The link</a>.",
-            "description2": "Long Description, you can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
-            "link": "https://full link",
-            "id": "ID_Achievement_X //put a unique id here where you'll create a folder contains the images and the videos you want to put",
+            "title": "AI Night Challenge 3rd Edition",
+            "date": "24/06/2024",
+            "location": "Novation City",
+            "description": "Won the prize in the <a target='_blank' href=\"https://arsii.org/\">ARSII</a> Data Science Contest with the\n                            project \"SmartEval: Système\n                            d'Évaluation Intelligente pour un Apprentissage Interactif.\" This marked the user's third\n                            participation, showcasing expertise in developing intelligent and interactive learning\n                            evaluation systems in collaboration with another team.",
+            "description2": "    Award-Winning Data Science Project – ARSII <a href=\"https://arsii.org/\">ARSII</a> Data Science\n                    Contest.\n\n                <ul>\n                    <li>Won the prize at the ARSII Data Science Contest with the project \"SmartEval: Système\n                        d'Évaluation Intelligente pour un Apprentissage Interactif\", showcasing expertise in developing\n                        intelligent and interactive learning evaluation systems.\n                    </li>\n                    <li>Designed a scalable AI-driven solution to transform traditional evaluation methods into\n                        personalized and adaptive learning experiences.\n                    </li>\n                    <li>Integrated machine learning algorithms to provide real-time performance analysis and customized\n                        feedback for learners.\n                    </li>\n                    <li>Achieved this recognition in the third participation in the contest, reflecting consistent\n                        growth and excellence in data science.\n                    </li>\n\n                </ul>",
+            "link": "https://arsii.org/",
+            "id": "ARSII3",
             "images": [
-              "portfolio/Achievements/ID_Achievement_X/1.jpg",
-              "portfolio/Achievements/ID_Achievement_X/2.jpg"
+              "portfolio/Achievements/ARSII3/1.jpg",
+              "portfolio/Achievements/ARSII3/2.jpg",
+              "portfolio/Achievements/ARSII3/3.jpg",
+              "portfolio/Achievements/ARSII3/4.jpg",
+              "portfolio/Achievements/ARSII3/5.jpg"
             ],
             "videos": [
-              "portfolio/Achievements/ID_Achievement_X/3.mp4",
-              "portfolio/Achievements/ID_Achievement_X/putyourvideoname.mp4"
+              "portfolio/Achievements/ARSII3/6.mp4",
+              "portfolio/Achievements/ARSII3/7.mp4"
             ]
           },
           {
-            "title": "Achievement 2",
-            "date": "xx/MM/AAAA",
-            "location": "Location",
-            "description": "Short Description, you can add links like this : <a href=\"https://link/\">The link</a>.",
-            "description2": "Long Description, you can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
-            "link": "https://full link",
-            "id": "ID_Achievement_X //put a unique id here where you'll create a folder contains the images and the videos you want to put",
+            "title": "IEEE CS TSYP11 : 2nd Prize",
+            "date": "18/12/2023",
+            "location": "Diar El Medina Hammamet Hotel",
+            "description": "Secured 2nd prize in the TSYP 11 IEEE CS Challenge for the project <a\n                                target=\"_blank\"\n                                href=\"portfolio/TSYP11_CS_Challenge.pdf\">\"Deep-fake\n                            Forensics TSYP11 CS.\"</a> Led the team to achieve the first-ever prize for the IEEE ENSIT\n                            Student Branch.\n                            Demonstrated expertise in AI-based deepfake detection techniques. Played a pivotal role in\n                            team leadership and project execution.",
+            "description2": "Secured 2nd prize in the TSYP 11 IEEE CS Challenge for the project <a\n                        target=\"_blank\"\n                        href=\"https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/387869074_650693227211598_4749270063989888951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pc2--rTICmgQ7kNvgGhdBot&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=AWJprDqSBRpVS2N_jhDzaWH&oh=00_AYBG-QgQjtOIEPrCIwpgXsze7L-RvSvDliDK7x4PhTHDwQ&oe=679C18AE\">\"Deep-fake\n                    Forensics TSYP11 CS.\"</a> Led the team to achieve the first-ever prize for the IEEE ENSIT\n                    Student Branch.\n                    Demonstrated expertise in AI-based deepfake detection techniques. Played a pivotal role in\n                    team leadership and project execution.\n\n                <ul>\n                    <li>Demonstrated expertise in AI-based deepfake detection techniques, developing innovative\n                        solutions to identify and combat deepfake content.\n                    </li>\n                    <li>Played a pivotal role in team leadership, ensuring efficient collaboration and successful\n                        project execution.\n                    </li>\n                    <li>Showcased technical skills and problem-solving abilities in a competitive environment,\n                        contributing to the team's remarkable achievement.\n                    </li>\n\n                </ul>",
+            "link": "https://www.diarlemdina.medinahotelsandresorts.com/",
+            "id": "tsyp11 ieee cs",
             "images": [
-              "portfolio/Achievements/ID_Achievement_X/1.jpg"
+              "portfolio/Achievements/tsyp11 ieee cs/1.jpg",
+              "portfolio/Achievements/tsyp11 ieee cs/2.jpg",
+              "portfolio/Achievements/tsyp11 ieee cs/3.jpg",
+              "portfolio/Achievements/tsyp11 ieee cs/4.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/tsyp11 ieee cs/5.mp4",
+              "portfolio/Achievements/tsyp11 ieee cs/6.mp4"
+            ]
+          },
+          {
+            "title": "AI Night Challenge 2nd Edition",
+            "date": "11/06/2023",
+            "location": "Novation City",
+            "description": "Won the prize in the <a target='_blank' href=\"https://arsii.org/\">ARSII</a> Data Science Contest with the\n                            project \"AI News Radar\" by <a target='_blank' href=\"https://www.pristiniaiuniversity.tn/en\">Pristini The AI\n                            Univesity</a> This marked the user's second\n                            participation, the contest consist of developing an application that allows users to\n                            check for the recent AI related news. I've used web scrapping and machine learning to\n                            predict\n                            the veracity of the news, then displaying in the Streamlit web application.",
+            "description2": "Prize Winner – ARSII <a  target='_blank' href=\"https://arsii.org/\">ARSII</a> Data Science Contest\n                <ul>\n                    <li>Won the prize in the ARSII Data Science Contest with the project \"AI News Radar\", developed\n                        under the banner of Pristini – The AI University.\n                    </li>\n                    <li>Participated in the contest for the second time, creating an application that enables users to\n                        access the latest AI-related news.\n                    </li>\n                    <li>Utilized web scraping techniques to aggregate news from various sources and applied machine\n                        learning models to predict the veracity of the news, ensuring reliability and trustworthiness.\n                    </li>\n                    <li>Designed and deployed the solution as a Streamlit web application, offering a user-friendly\n                        interface for seamless interaction.\n                    </li>\n                    <li>Demonstrated expertise in data science, machine learning, and application development,\n                        addressing real-world challenges in information verification and accessibility.\n                    </li>\n\n                </ul>",
+            "link": "https://www.novationcity.com/",
+            "id": "ARSII2",
+            "images": [
+              "portfolio/Achievements/ARSII2/1.jpg",
+              "portfolio/Achievements/ARSII2/2.jpg",
+              "portfolio/Achievements/ARSII2/3.jpg",
+              "portfolio/Achievements/ARSII2/4.jpg",
+              "portfolio/Achievements/ARSII2/5.jpg",
+              "portfolio/Achievements/ARSII2/6.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/ARSII2/7.mp4",
+              "portfolio/Achievements/ARSII2/8.mp4"
+            ]
+          },
+          {
+            "title": "IEEE ESSTHS : Game On",
+            "date": "11/12/2022",
+            "location": "ESSTHS",
+            "description": "Achieved 2nd place in the <a target='_blank' href=\"https://essths.ieee.tn/\">IEEE ESSTHS</a> Game Development\n                            Contest by creating a 3D survival\n                            shooter game. Developed the game within 8 hours using templates and examples, showcasing\n                            quick adaptability and creativity under time constraints.",
+            "description2": "Achieved 2nd place in the <a target='_blank' href=\"https://essths.ieee.tn/\">IEEE ESSTHS</a> Game Development\n                    Contest by creating a 3D survival\n                    shooter game. Developed the game within 8 hours using templates and examples, showcasing\n                    quick adaptability and creativity under time constraints.",
+            "link": "https://essths.rnu.tn/public/",
+            "id": "IEEE essths game on",
+            "images": [],
+            "videos": [
+              "portfolio/Achievements/IEEE essths game on/1.mp4",
+              "portfolio/Achievements/IEEE essths game on/2.mp4",
+              "portfolio/Achievements/IEEE essths game on/3.mp4"
+            ]
+          },
+          {
+            "title": "GEEKS Hack 2.0",
+            "date": "19/11/2022",
+            "location": "ENSIT Geeks Club",
+            "description": "Scared To Compile team earned 2nd place in the 24-hour Hackathon organized by the ENSIT\n                            Geeks Club, demonstrating\n                            strong problem-solving skills and effective performance under time pressure.\n                            ",
+            "description2": "2nd Place – 24-Hour Hackathon, ENSIT Geeks Club\n                <ul>\n                    <li>Achieved 2nd place as part of the Scared To Compile team in the 24-hour Hackathon organized by\n                        the ENSIT Geeks Club.\n                    </li>\n                    <li>Collaborated with team members Amenallah Ben Amor and Mohamed Amin Bachka to deliver a\n                        competitive solution under tight time constraints.\n                    </li>\n                    <li>Demonstrated exceptional problem-solving skills, creativity, and the ability to perform\n                        effectively under pressure.\n                    </li>\n                    <li>Contributed to the design and development of innovative solutions within a collaborative and\n                        high-stakes environment.\n                    </li>\n\n                </ul>",
+            "link": "https://www.ensitgeeksclub.com",
+            "id": "Geeks hack 2.0",
+            "images": [
+              "portfolio/Achievements/Geeks hack 2.0/1.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/2.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/3.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/4.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/5.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/Geeks hack 2.0/6.mp4"
+            ]
+          },
+          {
+            "title": "IEEEXtreme 16.0",
+            "date": "28/10/2022",
+            "location": "IEEE Ensit SB",
+            "description": "With team Keranis, earned the title of Second Best Team at ENSIT and ranked among the top 70\n                            teams\n                            in the Tunisia Section during the <a target=\"_blank\"\n                                                                 href=\"https://ieeextreme.org/ieeextreme-16-0-ranking/\">IEEEXtreme\n                            16.0</a> programming competition, showcasing\n                            exceptional coding and teamwork skills.",
+            "description2": "",
+            "link": "https://ensit.ieee.tn",
+            "id": "https://ieeextreme.org/ieeextreme-16-0-ranking/",
+            "images": [],
+            "videos": []
+          },
+          {
+            "title": "IEEE FST Hackathon",
+            "date": "11/04/2021",
+            "location": "City of Science of Tunisia",
+            "description": "Achieved 2nd place in the 24-hour problem-solving Hackathon organized by <a target=\"_blank\"\n                                                                                                        href=\"https://fst.ieee.tn/\">IEEE\n                            FST</a> at the\n                            City of Science in Tunis, demonstrating strong analytical and collaborative skills under\n                            pressure.",
+            "description2": "2nd Place – 24-Hour Problem-Solving Hackathon, IEEE FST\n                <ul>\n                    <li>Secured 2nd place as part of Team W101 in the 24-hour problem-solving Hackathon organized by\n                        IEEE FST at the City of Science in Tunis.\n                    </li>\n                    <li>Collaborated with team members Rebai Firas and Ben Othman Rami to deliver innovative and\n                        efficient solutions within the competition's time constraints.\n                    </li>\n                    <li>Demonstrated exceptional analytical thinking, teamwork, and the ability to perform effectively\n                        under pressure.\n                    </li>\n                    <li>Contributed to solving complex challenges, showcasing technical expertise and collaborative\n                        problem-solving in a competitive environment.\n                    </li>\n\n                </ul>",
+            "link": "http://www.cst.rnu.tn/",
+            "id": "FST hackathon",
+            "images": [
+              "portfolio/Achievements/FST hackathon/1.jpg",
+              "portfolio/Achievements/FST hackathon/2.jpg",
+              "portfolio/Achievements/FST hackathon/3.jpg"
             ],
             "videos": []
           }
         ]
       },
       {
-        "category": "Category 2",
+        "category": "Entrepreneurial",
         "items": [
           {
-            "title": "Achievement 3",
-            "date": "xx/MM/AAAA",
-            "location": "Location",
-            "description": "Short Description, you can add links like this : <a href=\"https://link/\">The link</a>.",
-            "description2": "Long Description, you can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
-            "link": "https://full link",
-            "id": "ID_Achievement_X //put a unique id here where you'll create a folder contains the images and the videos you want to put",
+            "title": "Best Scientific Article for IEEE Tunisia Section 2023",
+            "date": "19/12/2023",
+            "location": "Diar El Medina Hammamet Hotel",
+            "description": "Won the <a target=\"_blank\" href=\"https://ieeer8.org/category/student-activities/sa-spc/\">IEEE\n                            Tunisia Section\n                            Student Paper Contest 2023</a> with the paper titled \"Implementation\n                            for Data Science Aspect on the U-Book App.\" The paper highlighted innovative data science\n                            integration in application development.\n                            <br>Competed among top student researchers in Tunisia.\n                            Award included certification, TSYP Congress registration, and qualification for the IEEE\n                            Region 8 SPC.<br><a target=\"_blank\"\n                                   href=\"https://www.facebook.com/ieee.tsyp/posts/dear-community-hurry-up-and-join-in-on-the-ieee-tunisia-section-student-paper-co/659982196282701/\">Link\n                                for the Competition</a> <a target=\"_blank\" href=\"portfolio/papierScientifique.pdf\">Check\n                                the paper</a> ",
+            "description2": "Winner – IEEE Tunisia Section Student Paper Contest 2023\n                <ul>\n                    <li>Awarded 1st place in the IEEE Tunisia Section Student Paper Contest 2023 for the paper titled\n                        \"Implementation for Data Science Aspect on the U-Book App.\"\n                    </li>\n                    <li>The paper showcased innovative integration of data science techniques in application\n                        development, highlighting advancements in intelligent and efficient system design.\n                    </li>\n                    <li>Competed against top student researchers in Tunisia, demonstrating academic excellence and\n                        technical expertise.\n                    </li>\n                    <li>Received a certificate of recognition, TSYP Congress registration, and qualification to\n                        represent Tunisia in the prestigious IEEE Region 8 Student Paper Contest.\n                    </li>\n                    <li>Solidified reputation as a skilled researcher with the ability to apply cutting-edge\n                        technologies to real-world challenges.\n                    </li>\n\n                </ul>",
+            "link": "https://www.diarlemdina.medinahotelsandresorts.com/",
+            "id": "papierScientifique",
             "images": [
-              "portfolio/Achievements/ID_Achievement_X/1.jpg",
-              "portfolio/Achievements/ID_Achievement_X/2.jpg"
+              "portfolio/Achievements/ieee spc/1.jpg",
+              "portfolio/Achievements/ieee spc/2.jpg",
+              "portfolio/Achievements/ieee spc/3.JPG",
+              "portfolio/Achievements/ieee spc/4.jpg"
             ],
             "videos": [
-              "portfolio/Achievements/ID_Achievement_X/3.mp4",
-              "portfolio/Achievements/ID_Achievement_X/putyourvideoname.mp4"
+              "portfolio/Achievements/ieee spc/5.mp4",
+              "portfolio/Achievements/ieee spc/6.mp4",
+              "portfolio/Achievements/ieee spc/7.mp4"
+            ]
+          },
+          {
+            "title": "PEEC Innov'Startup 2.0 Final",
+            "date": "13/06/2022",
+            "location": "Sup'Com",
+            "description": "Participated in the <a\n       target='_blank'                         href=\"https://www.projet-saleem.org/lancement-du-concours-carthage-innovsrartup-2-0/\">Innov'startup\n                            2.0</a> entrepreneurship competition organized by the Pôle\n                            Étudiant Entrepreneur de Carthage (<a target='_blank' href=\"https://ucar.rnu.tn/peec/\">PEEC</a>) with the\n                            Ubook project. Successfully advanced\n                            through all qualification stages and reached the final, where they placed 5th out of 120\n                            projects. The final took place at Sup'Com, with the semifinals held at <a\n                       target='_blank'         href=\"https://insat.rnu.tn/\">INSAT</a>.",
+            "description2": "5th Place – Innov'startup 2.0 Entrepreneurship Competition\n                <ul>\n                    <li>Reached the finals of the competition, competing against the best entrepreneurial projects from\n                        across the country.\n                    </li>\n                    <li>Secured 5th place overall, showcasing the Ubook project as a standout in terms of innovation,\n                        feasibility, and market potential.\n                    </li>\n                    <li>Delivered a well-prepared final presentation to a distinguished panel of judges, highlighting\n                        the project’s unique features and growth strategy.\n                    </li>\n                    <li>Engaged with other top entrepreneurs, gaining valuable insights into business development and\n                        networking with potential investors and collaborators.\n                    </li>\n                    <li>Demonstrated an ability to perform under pressure, effectively presenting the project in a\n                        highly competitive environment, and received positive feedback on its innovative approach.\n                    </li>\n                </ul>",
+            "link": "https://www.supcom.tn/",
+            "id": "peec",
+            "images": [
+              "portfolio/Achievements/peec/insat/1.jpg",
+              "portfolio/Achievements/peec/insat/2.jpg",
+              "portfolio/Achievements/peec/insat/3.jpg",
+              "portfolio/Achievements/peec/insat/4.jpg",
+              "portfolio/Achievements/peec/insat/5.jpg",
+              "portfolio/Achievements/peec/insat/6.jpg",
+              "portfolio/Achievements/peec/supcom/1.jpg",
+              "portfolio/Achievements/peec/supcom/2.jpg",
+              "portfolio/Achievements/peec/supcom/3.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/peec/supcom/4.mp4",
+              "portfolio/Achievements/peec/supcom/5.mp4"
+            ]
+          },
+          {
+            "title": "EFE Contest",
+            "date": "15/11/2020",
+            "location": "FSB",
+            "description": "Competed in the <a target=\"_blank\" href=\"https://www.efe.org/\">EFE</a> entrepreneurship\n                            contest, winning the first qualification to the finals\n                            and securing 4th place in the final round, demonstrating strong entrepreneurial skills and\n                            innovative thinking.",
+            "description2": "4th Place – EFE Entrepreneurship Contest\n                <ul>\n                    <li>Competed in the EFE Entrepreneurship Contest, advancing through the initial rounds by winning\n                        the first qualification to the finals.\n                    </li>\n                    <li>Secured 4th place in the final round, showcasing strong entrepreneurial skills, innovative\n                        thinking, and the ability to develop impactful solutions.\n                    </li>\n                    <li>Demonstrated expertise in project pitching, business strategy, and problem-solving within a\n                        competitive entrepreneurial environment.\n                    </li>\n                    <li>Highlighted creative approaches to addressing real-world challenges, earning recognition among\n                        top participants.\n                    </li>\n\n                </ul>",
+            "link": "https://www.fsb.rnu.tn",
+            "id": "efe",
+            "images": [
+              "portfolio/Achievements/efe/1.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/efe/2.mp4"
             ]
           }
         ]
@@ -63,58 +195,190 @@
   "fr": {
     "achievements": [
       {
-        "category": "Catégorie 1",
+        "category": "Computer Science",
         "items": [
           {
-            "title": "Réussite 1",
-            "date": "xx/MM/AAAA",
-            "location": "Lieu",
-            "description": "Description courte, vous pouvez ajouter des liens comme ceci : <a href=\"https://link/\">Le lien</a>.",
-            "description2": "Description longue, vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
-            "link": "https://lien complet",
-            "id": "ID_Réussite_X //mettez un identifiant unique ici où vous créerez un dossier contenant les images et les vidéos que vous souhaitez ajouter",
+            "title": "AI Night Challenge 3ème Édition",
+            "date": "24/06/2024",
+            "location": "Novation City",
+            "description": "Gagné le prix lors du <a target='_blank' href=\"https://arsii.org/\">Concours de Science des Données ARSII</a> avec le projet \"SmartEval : Système d'Évaluation Intelligente pour un Apprentissage Interactif.\" Cela a marqué la troisième participation de l'utilisateur, mettant en avant son expertise dans le développement de systèmes d'évaluation d'apprentissage intelligents et interactifs en collaboration avec une autre équipe.",
+            "description2": "Projet de Science des Données Primé – Concours de Science des Données ARSII <a href=\"https://arsii.org/\">ARSII</a>\n                <ul>\n                    <li>Gagné le prix au Concours de Science des Données ARSII avec le projet \"SmartEval : Système d'Évaluation Intelligente pour un Apprentissage Interactif\", démontrant une expertise dans le développement de systèmes d'évaluation d'apprentissage intelligents et interactifs.</li>\n                    <li>Conçu une solution évolutive basée sur l'IA pour transformer les méthodes d'évaluation traditionnelles en expériences d'apprentissage personnalisées et adaptatives.</li>\n                    <li>Intégré des algorithmes d'apprentissage automatique pour fournir une analyse de performance en temps réel et des retours personnalisés pour les apprenants.</li>\n                    <li>A atteint cette reconnaissance lors de sa troisième participation au concours, reflétant une croissance continue et l'excellence dans le domaine de la science des données.</li>\n                </ul>",
+            "link": "https://arsii.org/",
+            "id": "ARSII3",
             "images": [
-              "portfolio/Achievements/ID_Réussite_X/1.jpg",
-              "portfolio/Achievements/ID_Réussite_X/2.jpg"
+              "portfolio/Achievements/ARSII3/1.jpg",
+              "portfolio/Achievements/ARSII3/2.jpg",
+              "portfolio/Achievements/ARSII3/3.jpg",
+              "portfolio/Achievements/ARSII3/4.jpg",
+              "portfolio/Achievements/ARSII3/5.jpg"
             ],
             "videos": [
-              "portfolio/Achievements/ID_Réussite_X/3.mp4",
-              "portfolio/Achievements/ID_Réussite_X/nomdevotrevidéo.mp4"
+              "portfolio/Achievements/ARSII3/6.mp4",
+              "portfolio/Achievements/ARSII3/7.mp4"
             ]
           },
           {
-            "title": "Réussite 2",
-            "date": "xx/MM/AAAA",
-            "location": "Lieu",
-            "description": "Description courte, vous pouvez ajouter des liens comme ceci : <a href=\"https://link/\">Le lien</a>.",
-            "description2": "Description longue, vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
-            "link": "https://lien complet",
-            "id": "ID_Réussite_X //mettez un identifiant unique ici où vous créerez un dossier contenant les images et les vidéos que vous souhaitez ajouter",
+            "title": "IEEE CS TSYP11 : 2ème Prix",
+            "date": "18/12/2023",
+            "location": "Hôtel Diar El Medina Hammamet",
+            "description": "A obtenu le 2ème prix dans le défi TSYP 11 IEEE CS pour le projet <a target=\"_blank\" href=\"portfolio/TSYP11_CS_Challenge.pdf\">\"Deep-fake Forensics TSYP11 CS.\"</a> A dirigé l'équipe pour obtenir le tout premier prix pour la branche étudiante IEEE ENSIT. A démontré son expertise dans les techniques de détection de deepfake basées sur l'IA. A joué un rôle clé dans le leadership de l'équipe et l'exécution du projet.",
+            "description2": "A obtenu le 2ème prix dans le défi TSYP 11 IEEE CS pour le projet <a target=\"_blank\" href=\"https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/387869074_650693227211598_4749270063989888951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pc2--rTICmgQ7kNvgGhdBot&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=AWJprDqSBRpVS2N_jhDzaWH&oh=00_AYBG-QgQjtOIEPrCIwpgXsze7L-RvSvDliDK7x4PhTHDwQ&oe=679C18AE\">\"Deep-fake Forensics TSYP11 CS.\"</a> A dirigé l'équipe pour obtenir le tout premier prix pour la branche étudiante IEEE ENSIT. A démontré son expertise dans les techniques de détection de deepfake basées sur l'IA. A joué un rôle clé dans le leadership de l'équipe et l'exécution du projet.\n                <ul>\n                    <li>A démontré son expertise dans les techniques de détection de deepfake basées sur l'IA, développant des solutions innovantes pour identifier et combattre le contenu deepfake.</li>\n                    <li>A joué un rôle clé dans le leadership de l'équipe, assurant une collaboration efficace et une exécution réussie du projet.</li>\n                    <li>A mis en valeur ses compétences techniques et sa capacité à résoudre des problèmes dans un environnement compétitif, contribuant à l'exceptionnelle réussite de l'équipe.</li>\n                </ul>",
+            "link": "https://www.diarlemdina.medinahotelsandresorts.com/",
+            "id": "tsyp11 ieee cs",
             "images": [
-              "portfolio/Achievements/ID_Réussite_X/1.jpg"
+              "portfolio/Achievements/tsyp11 ieee cs/1.jpg",
+              "portfolio/Achievements/tsyp11 ieee cs/2.jpg",
+              "portfolio/Achievements/tsyp11 ieee cs/3.jpg",
+              "portfolio/Achievements/tsyp11 ieee cs/4.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/tsyp11 ieee cs/5.mp4",
+              "portfolio/Achievements/tsyp11 ieee cs/6.mp4"
+            ]
+          },
+          {
+            "title": "AI Night Challenge 2ème Édition",
+            "date": "11/06/2023",
+            "location": "Novation City",
+            "description": "Gagné le prix lors du <a target='_blank' href=\"https://arsii.org/\">Concours de Science des Données ARSII</a> avec le projet \"AI News Radar\" de <a target='_blank' href=\"https://www.pristiniaiuniversity.tn/en\">Pristini The AI University</a>. Cela a marqué la deuxième participation de l'utilisateur, le concours consistant à développer une application permettant aux utilisateurs de consulter les dernières actualités liées à l'IA. J'ai utilisé le web scraping et l'apprentissage automatique pour prédire la véracité des nouvelles, puis les afficher dans l'application web Streamlit.",
+            "description2": "Gagnant – Concours de Science des Données ARSII <a target='_blank' href=\"https://arsii.org/\">ARSII</a>\n                <ul>\n                    <li>Gagné le prix lors du Concours de Science des Données ARSII avec le projet \"AI News Radar\", développé sous la bannière de Pristini – The AI University.</li>\n                    <li>A participé pour la deuxième fois au concours, en créant une application permettant aux utilisateurs d'accéder aux dernières actualités liées à l'IA.</li>\n                    <li>A utilisé des techniques de web scraping pour agréger des nouvelles provenant de diverses sources et a appliqué des modèles d'apprentissage automatique pour prédire la véracité des nouvelles, garantissant fiabilité et confiance.</li>\n                    <li>A conçu et déployé la solution sous la forme d'une application web Streamlit, offrant une interface conviviale pour une interaction fluide.</li>\n                    <li>A démontré son expertise en science des données, apprentissage automatique et développement d'applications, abordant des défis réels en matière de vérification d'informations et d'accessibilité.</li>\n                </ul>",
+            "link": "https://www.novationcity.com/",
+            "id": "ARSII2",
+            "images": [
+              "portfolio/Achievements/ARSII2/1.jpg",
+              "portfolio/Achievements/ARSII2/2.jpg",
+              "portfolio/Achievements/ARSII2/3.jpg",
+              "portfolio/Achievements/ARSII2/4.jpg",
+              "portfolio/Achievements/ARSII2/5.jpg",
+              "portfolio/Achievements/ARSII2/6.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/ARSII2/7.mp4",
+              "portfolio/Achievements/ARSII2/8.mp4"
+            ]
+          },
+          {
+            "title": "IEEE ESSTHS : Game On",
+            "date": "11/12/2022",
+            "location": "ESSTHS",
+            "description": "A obtenu la 2ème place au <a target='_blank' href=\"https://essths.ieee.tn/\">Concours de Développement de Jeu IEEE ESSTHS</a> en créant un jeu de tir de survie 3D. Développé le jeu en 8 heures en utilisant des modèles et des exemples, montrant une adaptation rapide et créativité sous contrainte de temps.",
+            "description2": "A obtenu la 2ème place au <a target='_blank' href=\"https://essths.ieee.tn/\">Concours de Développement de Jeu IEEE ESSTHS</a> en créant un jeu de tir de survie 3D. Développé le jeu en 8 heures en utilisant des modèles et des exemples, montrant une adaptation rapide et créativité sous contrainte de temps.",
+            "link": "https://essths.rnu.tn/public/",
+            "id": "IEEE essths game on",
+            "images": [],
+            "videos": [
+              "portfolio/Achievements/IEEE essths game on/1.mp4",
+              "portfolio/Achievements/IEEE essths game on/2.mp4",
+              "portfolio/Achievements/IEEE essths game on/3.mp4"
+            ]
+          },
+          {
+            "title": "GEEKS Hack 2.0",
+            "date": "19/11/2022",
+            "location": "ENSIT Geeks Club",
+            "description": "L'équipe Scared To Compile a remporté la 2ème place lors du Hackathon de 24 heures organisé par le club Geeks de l'ENSIT, démontrant de solides compétences en résolution de problèmes et une performance efficace sous pression.",
+            "description2": "2ème Place – Hackathon de 24 Heures, Club Geeks de l'ENSIT\n                <ul>\n                    <li>A obtenu la 2ème place en tant que membre de l'équipe Scared To Compile lors du Hackathon de 24 heures organisé par le club Geeks de l'ENSIT.</li>\n                    <li>A collaboré avec les membres de l'équipe Amenallah Ben Amor et Mohamed Amin Bachka pour livrer une solution compétitive sous de strictes contraintes de temps.</li>\n                    <li>A démontré des compétences exceptionnelles en résolution de problèmes, créativité, et capacité à performer efficacement sous pression.</li>\n                    <li>A contribué à la conception et au développement de solutions innovantes dans un environnement collaboratif et à enjeux élevés.</li>\n                </ul>",
+            "link": "https://www.ensitgeeksclub.com",
+            "id": "Geeks hack 2.0",
+            "images": [
+              "portfolio/Achievements/Geeks hack 2.0/1.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/2.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/3.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/4.jpg",
+              "portfolio/Achievements/Geeks hack 2.0/5.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/Geeks hack 2.0/6.mp4"
+            ]
+          },
+          {
+            "title": "IEEEXtreme 16.0",
+            "date": "28/10/2022",
+            "location": "IEEE Ensit SB",
+            "description": "Avec l'équipe Keranis, a obtenu le titre de Deuxième Meilleure Équipe à l'ENSIT et s'est classée parmi les 70 meilleures équipes de la section de Tunisie lors du <a target=\"_blank\" href=\"https://ieeextreme.org/ieeextreme-16-0-ranking/\">concours de programmation IEEEXtreme 16.0</a>, démontrant des compétences exceptionnelles en codage et en travail d'équipe.",
+            "description2": "",
+            "link": "https://ensit.ieee.tn",
+            "id": "https://ieeextreme.org/ieeextreme-16-0-ranking/",
+            "images": [],
+            "videos": []
+          },
+          {
+            "title": "Hackathon IEEE FST",
+            "date": "11/04/2021",
+            "location": "Cité des Sciences de Tunis",
+            "description": "A obtenu la 2ème place lors du Hackathon de 24 heures organisé par <a target=\"_blank\" href=\"https://fst.ieee.tn/\">IEEE FST</a> à la Cité des Sciences de Tunis, démontrant de fortes compétences analytiques et de collaboration sous pression.",
+            "description2": "2ème Place – Hackathon de Résolution de Problèmes de 24 Heures, IEEE FST\n                <ul>\n                    <li>A obtenu la 2ème place en tant que membre de l'équipe W101 lors du Hackathon de résolution de problèmes de 24 heures organisé par IEEE FST à la Cité des Sciences de Tunis.</li>\n                    <li>A collaboré avec les membres de l'équipe Rebai Firas et Ben Othman Rami pour livrer des solutions innovantes et efficaces dans les délais de la compétition.</li>\n                    <li>A démontré une pensée analytique exceptionnelle, un travail d'équipe et la capacité à performer efficacement sous pression.</li>\n                    <li>A contribué à la résolution de défis complexes, mettant en avant son expertise technique et sa capacité à résoudre des problèmes de manière collaborative dans un environnement compétitif.</li>\n                </ul>",
+            "link": "http://www.cst.rnu.tn/",
+            "id": "FST hackathon",
+            "images": [
+              "portfolio/Achievements/FST hackathon/1.jpg",
+              "portfolio/Achievements/FST hackathon/2.jpg",
+              "portfolio/Achievements/FST hackathon/3.jpg"
             ],
             "videos": []
           }
         ]
       },
       {
-        "category": "Catégorie 2",
+        "category": "Entrepreneurial",
         "items": [
           {
-            "title": "Réussite 3",
-            "date": "xx/MM/AAAA",
-            "location": "Lieu",
-            "description": "Description courte, vous pouvez ajouter des liens comme ceci : <a href=\"https://link/\">Le lien</a>.",
-            "description2": "Description longue, vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
-            "link": "https://lien complet",
-            "id": "ID_Réussite_X //mettez un identifiant unique ici où vous créerez un dossier contenant les images et les vidéos que vous souhaitez ajouter",
+            "title": "Meilleur Article Scientifique pour la Section IEEE Tunisie 2023",
+            "date": "19/12/2023",
+            "location": "Hôtel Diar El Medina Hammamet",
+            "description": "A remporté le <a target=\"_blank\" href=\"https://ieeer8.org/category/student-activities/sa-spc/\">Concours d'Articles Étudiants de la Section IEEE Tunisie 2023</a> avec l'article intitulé \"Implémentation de l'Aspect Science des Données sur l'Application U-Book.\" L'article a mis en avant l'intégration innovante de la science des données dans le développement d'applications.<br>Compétition parmi les meilleurs chercheurs étudiants en Tunisie. Le prix a inclus un certificat, une inscription au congrès TSYP, et une qualification pour le SPC de la Région IEEE 8.<br><a target=\"_blank\" href=\"https://www.facebook.com/ieee.tsyp/posts/dear-community-hurry-up-and-join-in-on-the-ieee-tunisia-section-student-paper-co/659982196282701/\">Lien pour la Compétition</a> <a target=\"_blank\" href=\"portfolio/papierScientifique.pdf\">Consulter l'article</a>",
+            "description2": "Gagnant – Concours d'Articles Étudiants de la Section IEEE Tunisie 2023\n                <ul>\n                    <li>A remporté la 1ère place au Concours d'Articles Étudiants de la Section IEEE Tunisie 2023 pour l'article intitulé \"Implémentation de l'Aspect Science des Données sur l'Application U-Book.\"\n                    </li>\n                    <li>L'article a présenté l'intégration innovante des techniques de science des données dans le développement d'applications, soulignant les avancées dans la conception de systèmes intelligents et efficaces.\n                    </li>\n                    <li>Compétition contre les meilleurs chercheurs étudiants en Tunisie, démontrant l'excellence académique et l'expertise technique.\n                    </li>\n                    <li>A reçu un certificat de reconnaissance, une inscription au congrès TSYP, et une qualification pour représenter la Tunisie au prestigieux Concours d'Articles Étudiants de la Région IEEE 8.\n                    </li>\n                    <li>A renforcé sa réputation en tant que chercheur compétent capable d'appliquer des technologies de pointe à des défis du monde réel.\n                    </li>\n                </ul>",
+            "link": "https://www.diarlemdina.medinahotelsandresorts.com/",
+            "id": "papierScientifique",
             "images": [
-              "portfolio/Achievements/ID_Réussite_X/1.jpg",
-              "portfolio/Achievements/ID_Réussite_X/2.jpg"
+              "portfolio/Achievements/ieee spc/1.jpg",
+              "portfolio/Achievements/ieee spc/2.jpg",
+              "portfolio/Achievements/ieee spc/3.JPG",
+              "portfolio/Achievements/ieee spc/4.jpg"
             ],
             "videos": [
-              "portfolio/Achievements/ID_Réussite_X/3.mp4",
-              "portfolio/Achievements/ID_Réussite_X/nomdevotrevidéo.mp4"
+              "portfolio/Achievements/ieee spc/5.mp4",
+              "portfolio/Achievements/ieee spc/6.mp4",
+              "portfolio/Achievements/ieee spc/7.mp4"
+            ]
+          },
+          {
+            "title": "PEEC Innov'Startup 2.0 Final",
+            "date": "13/06/2022",
+            "location": "Sup'Com",
+            "description": "Participation au concours <a target='_blank' href=\"https://www.projet-saleem.org/lancement-du-concours-carthage-innovsrartup-2-0/\">Innov'startup 2.0</a> organisé par le Pôle Étudiant Entrepreneur de Carthage (<a target='_blank' href=\"https://ucar.rnu.tn/peec/\">PEEC</a>) avec le projet Ubook. A réussi à passer toutes les étapes de qualification et a atteint la finale, où il a terminé 5ème sur 120 projets. La finale a eu lieu à Sup'Com, avec les demi-finales tenues à <a target='_blank' href=\"https://insat.rnu.tn/\">INSAT</a>.",
+            "description2": "5ème Place – Concours d'Entrepreneuriat Innov'startup 2.0\n                <ul>\n                    <li>A atteint la finale de la compétition, s'opposant aux meilleurs projets entrepreneuriaux du pays.</li>\n                    <li>A obtenu la 5ème place au total, mettant en avant le projet Ubook comme un exemple d'innovation, de faisabilité et de potentiel de marché.</li>\n                    <li>A délivré une présentation finale bien préparée devant un jury distingué, soulignant les caractéristiques uniques du projet et sa stratégie de croissance.</li>\n                    <li>A interagi avec d'autres entrepreneurs de premier plan, acquérant des perspectives précieuses sur le développement commercial et en établissant des contacts avec des investisseurs et des collaborateurs potentiels.</li>\n                    <li>A démontré sa capacité à performer sous pression, présentant efficacement le projet dans un environnement hautement compétitif et a reçu des retours positifs sur son approche innovante.</li>\n                </ul>",
+            "link": "https://www.supcom.tn/",
+            "id": "peec",
+            "images": [
+              "portfolio/Achievements/peec/insat/1.jpg",
+              "portfolio/Achievements/peec/insat/2.jpg",
+              "portfolio/Achievements/peec/insat/3.jpg",
+              "portfolio/Achievements/peec/insat/4.jpg",
+              "portfolio/Achievements/peec/insat/5.jpg",
+              "portfolio/Achievements/peec/insat/6.jpg",
+              "portfolio/Achievements/peec/supcom/1.jpg",
+              "portfolio/Achievements/peec/supcom/2.jpg",
+              "portfolio/Achievements/peec/supcom/3.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/peec/supcom/4.mp4",
+              "portfolio/Achievements/peec/supcom/5.mp4"
+            ]
+          },
+          {
+            "title": "Concours EFE",
+            "date": "15/11/2020",
+            "location": "FSB",
+            "description": "A participé au concours d'entrepreneuriat <a target=\"_blank\" href=\"https://www.efe.org/\">EFE</a>, remportant la première qualification pour les finales et obtenant la 4ème place lors de la manche finale, démontrant de solides compétences entrepreneuriales et une pensée innovante.",
+            "description2": "4ème Place – Concours d'Entrepreneuriat EFE\n                <ul>\n                    <li>A participé au Concours d'Entrepreneuriat EFE, avançant à travers les tours initiaux en remportant la première qualification pour les finales.</li>\n                    <li>A obtenu la 4ème place lors de la manche finale, mettant en avant de solides compétences entrepreneuriales, une pensée innovante, et la capacité à développer des solutions impactantes.</li>\n                    <li>A démontré son expertise en présentation de projets, stratégie commerciale, et résolution de problèmes dans un environnement entrepreneurial compétitif.</li>\n                    <li>A mis en avant des approches créatives pour relever des défis du monde réel, gagnant ainsi la reconnaissance parmi les meilleurs participants.</li>\n                </ul>",
+            "link": "https://www.fsb.rnu.tn",
+            "id": "efe",
+            "images": [
+              "portfolio/Achievements/efe/1.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/efe/2.mp4"
             ]
           }
         ]

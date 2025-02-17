@@ -1,0 +1,75 @@
+{
+  "en": {
+    "services": [
+      {
+        "icon": "fa-laptop",
+        "title": "Desktop Apps Dev",
+        "description": "Developed multiple desktop applications using technologies such as JavaFX, Swing, C, C++, C#, and Python, with a primary focus on JavaFX for most projects."
+      },
+      {
+        "icon": "fa-laptop-code",
+        "title": "Web Development",
+        "description": "Experienced in web development, utilizing HTML, CSS, and JavaScript for front-end design, with advanced development using Angular. For back-end development, proficient in Spring, Django, PHP Laravel, and Symfony."
+      },
+      {
+        "icon": "fa-android",
+        "title": "Mobile Apps Dev",
+        "description": "Developed mobile applications both natively using Android Studio and as hybrid solutions using frameworks like Ionic and Flutter."
+      },
+      {
+        "icon": "fa-gamepad",
+        "title": "Game Apps Dev",
+        "description": "Developed multiple game applications using JavaScript, C, Java, Python, and C#, with extensive experience in the Unity framework."
+      },
+      {
+        "icon": "fa-search",
+        "title": "DataScience Apps",
+        "description": "Developed data science applications using Python, specializing in AI, machine learning, trading systems, and automation solutions."
+      },
+      {
+        "icon": "fa-graduation-cap",
+        "title": "IT Trainings",
+        "description": "Delivered IT training sessions in multiple fields, including web development, Git and GitHub, Linux, and various programming languages.",
+        "link": "/itTrainer",
+        "linkText": "Read More"
+      }
+    ]
+  },
+  "fr": {
+    "services": [
+      {
+        "icon": "fa-laptop",
+        "title": "Dév d'app bureau",
+        "description": "Développement de plusieurs applications de bureau utilisant des technologies telles que JavaFX, Swing, C, C++, C# et Python, avec un accent principal sur JavaFX pour la plupart des projets."
+      },
+      {
+        "icon": "fa-laptop-code",
+        "title": "Développement Web",
+        "description": "Expérience en développement web, utilisant HTML, CSS et JavaScript pour la conception front-end, avec un développement avancé utilisant Angular. Pour le développement back-end, maîtrise de Spring, Django, PHP Laravel et Symfony."
+      },
+      {
+        "icon": "fa-android",
+        "title": "Dév d'app mobiles",
+        "description": "Développement d'applications mobiles à la fois de manière native avec Android Studio et en solutions hybrides utilisant des frameworks comme Ionic et Flutter."
+      },
+      {
+        "icon": "fa-gamepad",
+        "title": "Dév d'app de jeux",
+        "description": "Développement de multiples applications de jeux utilisant JavaScript, C, Java, Python et C#, avec une vaste expérience dans le framework Unity."
+      },
+      {
+        "icon": "fa-search",
+        "title": "Science des données",
+        "description": "Développement d'applications de science des données utilisant Python, spécialisé dans l'IA, l'apprentissage automatique, les systèmes de trading et les solutions d'automatisation."
+      },
+      {
+        "icon": "fa-graduation-cap",
+        "title": "Formateur en IT",
+        "description": "Animation de sessions de formation en informatique dans plusieurs domaines, y compris le développement web, Git et GitHub, Linux et divers langages de programmation.",
+        "link": "/itTrainer",
+        "linkText": "Lire la suite"
+      }
+    ]
+  }
+}
+

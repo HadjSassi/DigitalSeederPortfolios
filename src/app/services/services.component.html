@@ -1,0 +1,20 @@
+<div class="container-fluid pt-5">
+  <div class="container">
+    <div class="position-relative d-flex align-items-center justify-content-center">
+      <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">{{config.title}}</h1>
+      <h1 class="position-absolute text-uppercase text-primary">{{config.subTitle}}</h1>
+    </div>
+    <div class="row pb-3">
+      <div *ngFor="let service of services" class="col-lg-4 col-md-6 text-center mb-5">
+        <div class="d-flex align-items-center justify-content-center mb-4">
+          <i
+            [ngClass]="{'fa': service.icon !== 'fa-android', 'fab': service.icon === 'fa-android'}"
+            class="fa-2x {{ service.icon }} service-icon bg-primary text-white mr-3">
+          </i>          <h4 class="font-weight-bold m-0">{{ service.title }}</h4>
+        </div>
+        <p>{{ service.description }}</p>
+        <a *ngIf="service.link" target="_blank" class="border-bottom border-primary text-decoration-none" [href]="service.link">{{ service.linkText }}</a>
+      </div>
+    </div>
+  </div>
+</div>
