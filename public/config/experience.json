@@ -1,0 +1,14 @@
+{
+  "en": {
+    "title": "Experience",
+    "subTitle": "Education & Experience",
+    "experience": "My Experience",
+    "education": "My Education"
+  },
+  "fr": {
+    "title": "Expérience",
+    "subTitle": "Éducation et expérience",
+    "experience": "Mon expérience",
+    "education": "Ma formation"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Projet 1",
+    "imageAbout": "img/1.png",
+    "link": "https://link to project 1",
+    "category": "first"
+  },
+  {
+    "name": "IEEE Typo",
+    "imageAbout": "img/arsii2.png",
+    "link": "link to project 2",
+    "category": "second"
+  },
+  {
+    "name": "IEEE Typo",
+    "imageAbout": "img/arsii2.png",
+    "link": "link to project 3",
+    "category": "third"
+  }
+]

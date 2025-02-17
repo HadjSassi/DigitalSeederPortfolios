@@ -1,0 +1,35 @@
+{
+  "en": {
+    "services": [
+      {
+        "icon": "fa-laptop",
+        "title": "Service 1",
+        "description": "Description of service 1",
+        "link": "/the link for the link if necessary",
+        "linkText": "Read More for example"
+      },
+      {
+        "icon": "fa-laptop-code",
+        "title": "Service 2",
+        "description": "for icons you search on https://fontawesome.com/icons"
+      }
+    ]
+  },
+  "fr": {
+    "services": [
+      {
+        "icon": "fa-laptop",
+        "title": "Service 1",
+        "description": "Description de service 1",
+        "link": "/the link for the link if necessary",
+        "linkText": "Read More for example"
+      },
+      {
+        "icon": "fa-laptop-code",
+        "title": "Service 2",
+        "description": "for icons you search on https://fontawesome.com/icons"
+      }
+    ]
+  }
+}
+

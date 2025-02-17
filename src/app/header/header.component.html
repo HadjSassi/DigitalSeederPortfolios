@@ -1,0 +1,47 @@
+<!-- Video Modal Start -->
+<!-- Added template reference variable #videoModal to correctly capture the element -->
+<div #videoModal class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document"> <!-- Use modal-lg for a larger modal -->
+    <div class="modal-content">
+      <div class="modal-body">
+        <button type="button" class="close bg-transparent" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div *ngIf="sanitizedVideoIframe" [innerHTML]="sanitizedVideoIframe" class="embed-responsive embed-responsive-16by9"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Video Modal End -->
+
+<div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" style="min-height: 100vh;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
+        <img class="img-fluid w-100 rounded-circle shadow-sm" [src]="about.profileImage" alt="Profile Image">
+      </div>
+      <div class="col-lg-7 text-center text-lg-left">
+        <h3 class="text-white font-weight-normal mb-3">{{ about.introduction.heading }}</h3>
+        <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">{{ about.introduction.name }}</h1>
+        <app-typed-text
+          [strings]="about.introduction.typedStrings"
+          [typeSpeed]="200"
+          [backSpeed]="50"
+          [loop]="true"
+          class="font-weight-light h1 text-white">
+        </app-typed-text>
+        <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
+          <a [href]="about.cv" target="_blank" class="btn btn-outline-light mr-5">{{config.cv}}</a>
+          <!-- Removed data attributes and used Angular click binding -->
+          <button type="button" class="btn-play" (click)="openModal()">
+            <span></span>
+          </button>
+          <h5 class="font-weight-normal text-white m-0 ml-4 d-none d-sm-block">{{config.video}}</h5>
+          <button class="btn btn-outline-light ml-4" (click)="toggleLanguage()">
+            {{ language === 'en' ? 'Changer vers le Français' : 'Change to English' }}
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

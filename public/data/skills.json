@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Skill 1",
+    "percentage": 80,
+    "logo": "url vers le logo",
+    "color": "#0077CC"
+  },
+  {
+    "name": "Skill 2",
+    "percentage": 70,
+    "logo": "url vers le logo",
+    "color": "#00599C"
+  }
+]
+

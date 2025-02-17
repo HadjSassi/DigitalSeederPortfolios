@@ -1,0 +1,67 @@
+{
+  "en": {
+    "socialActivities": [
+      {
+        "title": "activity 1",
+        "title2": "little title",
+        "articleTitle": "Very little title",
+        "imageAbout": "/portfolio/social/IdentifierActivity1/img.jpg",
+        "id": "IdentifierActivity1",
+        "description2": "activity description",
+        "images": [
+          "portfolio/social/IdentifierActivity1/0.jpg",
+          "portfolio/social/IdentifierActivity1/1.jpg"
+        ],
+        "videos": [
+          "portfolio/social/IdentifierActivity1/4.mp4",
+          "portfolio/social/IdentifierActivity1/5.mp4"
+        ]
+      },
+      {
+        "title": "activity 2",
+        "title2": "little title",
+        "articleTitle": "Very little title",
+        "imageAbout": "/portfolio/social/IdentifierActivity2/img.jpg",
+        "id": "IdentifierActivity2",
+        "description2": "activity description",
+        "images": [
+          "portfolio/social/IdentifierActivity2/0.jpg"
+        ],
+        "videos": []
+      }
+    ]
+  },
+  "fr": {
+    "socialActivities": [
+      {
+        "title": "activité 1",
+        "title2": "petit titre",
+        "articleTitle": "Très petit titre",
+        "imageAbout": "/portfolio/social/IdentifierActivity1/img.jpg",
+        "id": "IdentifierActivity1",
+        "description2": "description de l'activité",
+        "images": [
+          "portfolio/social/IdentifierActivity1/0.jpg",
+          "portfolio/social/IdentifierActivity1/1.jpg"
+        ],
+        "videos": [
+          "portfolio/social/IdentifierActivity1/4.mp4",
+          "portfolio/social/IdentifierActivity1/5.mp4"
+        ]
+      },
+      {
+        "title": "activity 2",
+        "title2": "petit titre",
+        "articleTitle": "Très petit titre",
+        "imageAbout": "/portfolio/social/IdentifierActivity2/img.jpg",
+        "id": "IdentifierActivity2",
+        "description2": "description de l'activité",
+        "images": [
+          "portfolio/social/IdentifierActivity2/0.jpg"
+        ],
+        "videos": []
+      }
+    ]
+  }
+}
+

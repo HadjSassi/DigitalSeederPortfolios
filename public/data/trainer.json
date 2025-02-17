@@ -1,0 +1,28 @@
+{
+  "en": {
+    "trainings": [
+      {
+        "title": "Training",
+        "description2": "Training description",
+        "images": [
+          "portfolio/trainings/trainingpath/1.jpg"
+        ],
+        "videos": ["portfolio/trainings/trainingpath/8.mp4"]
+      }
+    ]
+  }
+,
+  "fr": {
+    "trainings": [
+      {
+        "title": "Formation",
+        "description2": "description formation",
+        "images": [
+          "portfolio/trainings/trainingpath/1.jpg"
+        ],
+        "videos": ["portfolio/trainings/trainingpath/8.mp4"]
+      }
+    ]
+  }
+
+}

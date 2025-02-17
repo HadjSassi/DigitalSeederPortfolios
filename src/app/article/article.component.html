@@ -1,0 +1,60 @@
+<!-- Modal Start -->
+<div class="modal fade" id="mediaModal" tabindex="-1" aria-labelledby="mediaModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body text-center">
+        <img [src]="selectedImagePath" class="img-fluid" alt="Expanded Image" *ngIf="selectedImagePath">
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal End -->
+
+<!-- Content Start -->
+<div class="container-fluid py-5">
+  <div class="container">
+    <div class="position-relative d-flex align-items-center justify-content-center mb-4">
+      <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">{{ titleArticle }}</h1>
+      <h1 class="position-absolute text-uppercase text-primary">{{ article.title }}</h1>
+    </div>
+
+    <div class="row align-items-start">
+      <div class="col-lg-6">
+        <div>
+          <p [innerHTML]="article.description2"></p>
+        </div>
+      </div>
+      <div *ngIf="article.images.length !== 0" class="col-lg-6">
+        <div class="custom-carousel">
+          <button class="prev-btn" (click)="prevSlide()" *ngIf="article.images.length > 1" aria-label="Previous image">❮</button>
+          <div>
+            <img
+              [src]="article.images[currentIndex]"
+              class="carousel-image"
+              alt="Carousel Image"
+              (click)="openModal(article.images[currentIndex])"
+              aria-label="View image in modal"
+            >
+          </div>
+          <button class="next-btn" (click)="nextSlide()" *ngIf="article.images.length > 1" aria-label="Next image">❯</button>
+        </div>
+      </div>
+    </div>
+
+    <br>
+
+    <div class="row">
+      <ng-container *ngFor="let video of article.videos; let i = index">
+        <div class="col-lg-6 mb-4" [ngClass]="{'offset-lg-3': article.videos.length % 2 !== 0 && i === article.videos.length - 1}">
+          <div class="embed-responsive embed-responsive-16by9">
+            <video class="embed-responsive-item" controls>
+              <source [src]="video" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</div>
+<!-- Content End -->

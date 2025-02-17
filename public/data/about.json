@@ -1,0 +1,88 @@
+{
+  "en": {
+    "name": "NAME Surname",
+    "subname1" : "subname1",
+    "subname2" : "subname2",
+    "birthday": "dd MMMM AAAA",
+    "degree": "Your Degree",
+    "experience": "xx Years",
+    "phone": "Your Phone Number",
+    "email": "Your mail",
+    "address": "Where do you live",
+    "freelance": "Not Available",
+    "links": {
+      "linkedin": "Your LinkedIn profile full link",
+      "github": "Your GitHub profile full link",
+      "facebook": "Your Facebook profile full link",
+      "instagram": "Your Instagram profile full link"
+    },
+    "description": "Fill a description about you. You can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
+    "imageAbout": "img/about3.png",
+    "profileImage": "img/profile.png",
+    "achievementImage": "img/achiev.png",
+    "socialLifeImage": "img/social.png",
+    "videoIframe": "<iframe width='560' height='315' src='full link to a public video of yours' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "footer": {
+      "message": "&copy;DIGITAL SEEDER. All Rights Reserved. Designed and Developed by HADJ SASSI Mahdi"
+    },
+    "introduction": {
+      "heading": "I am",
+      "name": "PSEUDO NAME",
+      "typedStrings": [
+        "Skill 1 ",
+        "Skill 2 ",
+        "Skill 3 ",
+        "Skill 4 ",
+        "Skill 5 ",
+        "Skill 6 ",
+        "Skill 7 ",
+        "Skill 8 ",
+        "Skill 9 "
+      ]
+    },
+    "cv": "cv/en.pdf"
+  },
+  "fr": {
+    "name": "NOM Prénom",
+    "subname1" : "sousnom1",
+    "subname2" : "sousnom2",
+    "birthday": "dd MMMM AAAA",
+    "degree": "Votre diplôme",
+    "experience": "xx Ans",
+    "phone": "Votre numéro de téléphone",
+    "email": "Votre mail",
+    "address": "Où habitez-vous",
+    "freelance": "Non disponible",
+    "links": {
+      "linkedin": "Lien complet vers votre profil LinkedIn",
+      "github": "Lien complet vers votre profil GitHub",
+      "facebook": "Lien complet vers votre profil Facebook",
+      "instagram": "Lien complet vers votre profil Instagram"
+    },
+    "description": "Ajoutez une description à propos de vous. Vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
+    "imageAbout": "img/about3.png",
+    "profileImage": "img/profile.png",
+    "achievementImage": "img/achiev.png",
+    "socialLifeImage": "img/social.png",
+    "videoIframe": "<iframe width='560' height='315' src='Lien complet vers une vidéo publique' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    "footer": {
+      "message": "&copy;DIGITAL SEEDER. Tous droits réservés. Conçu et developpé par HADJ SASSI Mahdi"
+    },
+    "introduction": {
+      "heading": "Je suis",
+      "name": "PSEUDO NOM",
+      "typedStrings": [
+        "Compétence 1 ",
+        "Compétence 2 ",
+        "Compétence 3 ",
+        "Compétence 4 ",
+        "Compétence 5 ",
+        "Compétence 6 ",
+        "Compétence 7 ",
+        "Compétence 8 ",
+        "Compétence 9 "
+      ]
+    },
+    "cv": "cv/fr.pdf"
+  }
+}

@@ -1,0 +1,12 @@
+<div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5 footer-bg-wrapper position-relative">
+  <img src="img/FAVICON.png" class="footer-bg-img" alt="Signature" />
+  <div class="container text-center py-5 position-relative">
+    <div class="d-flex justify-content-center mb-4">
+      <a *ngIf="about.links.github" class="btn btn-light btn-social mr-2" target="_blank" [href]="about.links.github"><i class="fab fa-github"></i></a>
+      <a *ngIf="about.links.facebook" class="btn btn-light btn-social mr-2" target="_blank" [href]="about.links.facebook"><i class="fab fa-facebook-f"></i></a>
+      <a *ngIf="about.links.linkedin" class="btn btn-light btn-social mr-2" target="_blank" [href]="about.links.linkedin"><i class="fab fa-linkedin-in"></i></a>
+      <a *ngIf="about.links.instagram" class="btn btn-light btn-social" target="_blank" [href]="about.links.instagram"><i class="fab fa-instagram"></i></a>
+    </div>
+    <p class="m-0 text-center" [innerHTML]="about.footer.message"></p>
+  </div>
+</div>

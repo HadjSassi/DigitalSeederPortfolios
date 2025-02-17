@@ -1,0 +1,58 @@
+{
+  "en": {
+    "education": [
+      {
+        "degree": "Degree 2",
+        "institution": "Locatoin Degree 2",
+        "institutionLink": "https://link degree 2",
+        "duration": "AAAA - AAAA",
+        "description": "Description Degree 2"
+      },
+      {
+        "degree": "Degree 1",
+        "institution": "Location Degree 1",
+        "institutionLink": "https://link degree 3",
+        "duration": "AAAA - AAAA",
+        "description": "Description Degree 1"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Exprience 1",
+        "institution": "Location Experience 1",
+        "institutionLink": "https://link experience 1",
+        "duration": "DD/MM/AAAA - DD/MM/AAAA",
+        "description": "Description Experience 1",
+        "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+      }
+    ]
+  },
+  "fr": {
+    "education": [
+      {
+        "degree": "Diplôme 2",
+        "institution": "Lieu Diplôme 2",
+        "institutionLink": "https://lien diplôme 2",
+        "duration": "AAAA - AAAA",
+        "description": "Description Diplôme 2"
+      },
+      {
+        "degree": "Diplôme 1",
+        "institution": "Lieu Diplôme 1",
+        "institutionLink": "https://lien diplôme 3",
+        "duration": "AAAA - AAAA",
+        "description": "Description Diplôme 1"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Expérience 1",
+        "institution": "Lieu Expérience 1",
+        "institutionLink": "https://lien expérience 1",
+        "duration": "JJ/MM/AAAA - JJ/MM/AAAA",
+        "description": "Description Expérience 1",
+        "technologies": ["Technologie 1", "Technologie 2", "Technologie 3"]
+      }
+    ]
+  }
+}

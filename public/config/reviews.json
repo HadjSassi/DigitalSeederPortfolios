@@ -1,0 +1,12 @@
+{
+  "en": {
+    "title": "Reviews",
+    "subTitle": "Clients Say",
+    "nothing": "No testimonials available."
+  },
+  "fr": {
+    "title": "Avis",
+    "subTitle": "Ce que disent les clients",
+    "nothing": "Aucun témoignage disponible."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "en": {
+    "achievements": [
+      {
+        "category": "Category 1",
+        "items": [
+          {
+            "title": "Achievement 1",
+            "date": "xx/MM/AAAA",
+            "location": "Location",
+            "description": "Short Description, you can add links like this : <a href=\"https://link/\">The link</a>.",
+            "description2": "Long Description, you can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
+            "link": "https://full link",
+            "id": "ID_Achievement_X //put a unique id here where you'll create a folder contains the images and the videos you want to put",
+            "images": [
+              "portfolio/Achievements/ID_Achievement_X/1.jpg",
+              "portfolio/Achievements/ID_Achievement_X/2.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/ID_Achievement_X/3.mp4",
+              "portfolio/Achievements/ID_Achievement_X/putyourvideoname.mp4"
+            ]
+          },
+          {
+            "title": "Achievement 2",
+            "date": "xx/MM/AAAA",
+            "location": "Location",
+            "description": "Short Description, you can add links like this : <a href=\"https://link/\">The link</a>.",
+            "description2": "Long Description, you can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
+            "link": "https://full link",
+            "id": "ID_Achievement_X //put a unique id here where you'll create a folder contains the images and the videos you want to put",
+            "images": [
+              "portfolio/Achievements/ID_Achievement_X/1.jpg"
+            ],
+            "videos": []
+          }
+        ]
+      },
+      {
+        "category": "Category 2",
+        "items": [
+          {
+            "title": "Achievement 3",
+            "date": "xx/MM/AAAA",
+            "location": "Location",
+            "description": "Short Description, you can add links like this : <a href=\"https://link/\">The link</a>.",
+            "description2": "Long Description, you can use <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a> syntax.",
+            "link": "https://full link",
+            "id": "ID_Achievement_X //put a unique id here where you'll create a folder contains the images and the videos you want to put",
+            "images": [
+              "portfolio/Achievements/ID_Achievement_X/1.jpg",
+              "portfolio/Achievements/ID_Achievement_X/2.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/ID_Achievement_X/3.mp4",
+              "portfolio/Achievements/ID_Achievement_X/putyourvideoname.mp4"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "achievements": [
+      {
+        "category": "Catégorie 1",
+        "items": [
+          {
+            "title": "Réussite 1",
+            "date": "xx/MM/AAAA",
+            "location": "Lieu",
+            "description": "Description courte, vous pouvez ajouter des liens comme ceci : <a href=\"https://link/\">Le lien</a>.",
+            "description2": "Description longue, vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
+            "link": "https://lien complet",
+            "id": "ID_Réussite_X //mettez un identifiant unique ici où vous créerez un dossier contenant les images et les vidéos que vous souhaitez ajouter",
+            "images": [
+              "portfolio/Achievements/ID_Réussite_X/1.jpg",
+              "portfolio/Achievements/ID_Réussite_X/2.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/ID_Réussite_X/3.mp4",
+              "portfolio/Achievements/ID_Réussite_X/nomdevotrevidéo.mp4"
+            ]
+          },
+          {
+            "title": "Réussite 2",
+            "date": "xx/MM/AAAA",
+            "location": "Lieu",
+            "description": "Description courte, vous pouvez ajouter des liens comme ceci : <a href=\"https://link/\">Le lien</a>.",
+            "description2": "Description longue, vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
+            "link": "https://lien complet",
+            "id": "ID_Réussite_X //mettez un identifiant unique ici où vous créerez un dossier contenant les images et les vidéos que vous souhaitez ajouter",
+            "images": [
+              "portfolio/Achievements/ID_Réussite_X/1.jpg"
+            ],
+            "videos": []
+          }
+        ]
+      },
+      {
+        "category": "Catégorie 2",
+        "items": [
+          {
+            "title": "Réussite 3",
+            "date": "xx/MM/AAAA",
+            "location": "Lieu",
+            "description": "Description courte, vous pouvez ajouter des liens comme ceci : <a href=\"https://link/\">Le lien</a>.",
+            "description2": "Description longue, vous pouvez utiliser la syntaxe <a target='_blank' href=\"https://www.markdownguide.org/cheat-sheet/\">Markdown</a>.",
+            "link": "https://lien complet",
+            "id": "ID_Réussite_X //mettez un identifiant unique ici où vous créerez un dossier contenant les images et les vidéos que vous souhaitez ajouter",
+            "images": [
+              "portfolio/Achievements/ID_Réussite_X/1.jpg",
+              "portfolio/Achievements/ID_Réussite_X/2.jpg"
+            ],
+            "videos": [
+              "portfolio/Achievements/ID_Réussite_X/3.mp4",
+              "portfolio/Achievements/ID_Réussite_X/nomdevotrevidéo.mp4"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

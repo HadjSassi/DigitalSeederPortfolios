@@ -1,0 +1,32 @@
+{
+  "en": {
+    "title": "About",
+    "subTitle": "About Me",
+    "name": "Name",
+    "birthday": "Birthday",
+    "degree": "Degree",
+    "experience": "Experience",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "freelance": "Freelance",
+    "hire": "Hire Me",
+    "linkedin": "Check LinkedIn",
+    "github": "Check Github"
+  },
+  "fr": {
+    "title": "À propos",
+    "subTitle": "À propos de moi",
+    "name": "Nom",
+    "birthday": "Anniversaire",
+    "degree": "Diplôme",
+    "experience": "Expérience",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "address": "Adresse",
+    "freelance": "Freelance",
+    "hire": "Recrutez-moi",
+    "linkedin": "Voir LinkedIn",
+    "github": "Voir Github"
+  }
+}

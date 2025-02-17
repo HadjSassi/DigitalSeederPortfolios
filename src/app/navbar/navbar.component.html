@@ -1,0 +1,21 @@
+<!-- navbar.component.html -->
+<nav [ngClass]="{'navbar-visible': isNavbarVisible, 'navbar-hidden': !isNavbarVisible}"
+     class="fixed-top shadow-sm navbar-expand-lg bg-light py-3 px-lg-5 d-flex justify-content-between">
+  <a routerLink="/home" class="navbar-brand ml-lg-3">
+    <h1 class="m-0 h2 display-5"><span class="text-primary">{{subTitle1}}</span>{{subTitle2}}</h1>
+  </a>
+  <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <div class="navbar-nav m-auto d-flex justify-content-center">
+      <a routerLink="/home" fragment="home" class="nav-item nav-link" [ngClass]="{'active': isActive('home')}">{{config.Home}}</a>
+      <a routerLink="/home" fragment="about" class="nav-item nav-link" [ngClass]="{'active': isActive('about')}">{{config.About}}</a>
+      <a routerLink="/home" fragment="experience" class="nav-item nav-link" [ngClass]="{'active': isActive('experience')}">{{config.Experience}}</a>
+      <a routerLink="/home" fragment="skill" class="nav-item nav-link" [ngClass]="{'active': isActive('skill')}">{{config.Skill}}</a>
+      <a routerLink="/home" fragment="achievement" class="nav-item nav-link" [ngClass]="{'active': isActive('achievement')}">{{config.Achievements}}</a>
+      <a routerLink="/home" fragment="social" class="nav-item nav-link" [ngClass]="{'active': isActive('social')}">{{config.Social}}</a>
+    </div>
+    <a [href]="mailing" class="btn btn-outline-primary d-none d-lg-block">{{config.Hire}}</a>
+  </div>
+</nav>

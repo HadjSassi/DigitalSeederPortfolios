@@ -1,0 +1,21 @@
+{
+  "en": {
+    "Home": "Home",
+    "About": "About",
+    "Experience": "Experience",
+    "Skill": "Skill",
+    "Achievements": "Achievements",
+    "Social": "Social Life",
+    "Review": "Review",
+    "Hire": "Contact Me"
+  },
+  "fr": {
+    "Home": "Accueil",
+    "About": "À propos",
+    "Experience": "Expérience",
+    "Skill": "Compétence",
+    "Achievements": "Réalisations",
+    "Social": "Vie sociale",
+    "Hire": "Contactez-moi"
+  }
+}
