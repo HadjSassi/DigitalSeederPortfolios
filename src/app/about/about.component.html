@@ -9,7 +9,7 @@
         <img class="img-fluid rounded w-100" [src]="about.imageAbout" alt="About Me">
       </div>
       <div class="col-lg-7">
-        <h3 class="mb-4" [innerHTML]="about.degree + ' Student'"></h3>
+        <h3 class="mb-4" [innerHTML]="about.introduction.name"></h3>
         <p [innerHTML]="about.description"></p>
         <div class="row mb-3">
           <div class="col-sm-6 py-2"><h6>{{config.name}}: <span class="text-secondary" [innerHTML]="about.name"></span></h6></div>
