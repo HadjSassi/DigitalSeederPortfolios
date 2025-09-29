@@ -6,13 +6,11 @@ import {ExperienceComponent} from './experience/experience.component';
 import {SkillsComponent} from './skills/skills.component';
 import {AchievementsComponent} from './achievements/achievements.component';
 import {SocialLifeComponent} from './social-life/social-life.component';
-import {ItTrainerComponent} from './it-trainer/it-trainer.component';
 import {AchievementComponent} from './achievement/achievement.component';
 import {SoclifeComponent} from './soclife/soclife.component';
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent },
-  { path: 'itTrainer', component: ItTrainerComponent },
   { path: 'Achievements/:name', component: AchievementComponent },
   { path: 'SocialLife/:name', component: SoclifeComponent },
   // { path: 'about', component: AboutComponent },
