@@ -1,8 +1,8 @@
 {
   "en": {
-    "name": "NAME Surname",
-    "subname1" : "subname1",
-    "subname2" : "subname2",
+    "name": "BEN YOUSSEF Nour",
+    "subname1" : "BEN",
+    "subname2" : "YOUSSEF",
     "birthday": "dd MMMM AAAA",
     "degree": "Your Degree",
     "experience": "xx Years",
@@ -27,7 +27,7 @@
     },
     "introduction": {
       "heading": "I am",
-      "name": "PSEUDO NAME",
+      "name": "BEN YOUSSEF Nour",
       "typedStrings": [
         "Skill 1 ",
         "Skill 2 ",
@@ -43,9 +43,7 @@
     "cv": "cv/en.pdf"
   },
   "fr": {
-    "name": "NOM Prénom",
-    "subname1" : "sousnom1",
-    "subname2" : "sousnom2",
+    "name": "BEN YOUSSEF Nour",
     "birthday": "dd MMMM AAAA",
     "degree": "Votre diplôme",
     "experience": "xx Ans",
@@ -70,7 +68,7 @@
     },
     "introduction": {
       "heading": "Je suis",
-      "name": "PSEUDO NOM",
+      "name": "BEN YOUSSEF Nour",
       "typedStrings": [
         "Compétence 1 ",
         "Compétence 2 ",
